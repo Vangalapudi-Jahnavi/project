@@ -1,0 +1,3645 @@
+
+
+
+
+
+<html>
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<title>Andhra pradesh state skill development corporation  (APSSDC)</title>
+	
+</head>
+ 
+<body>
+		<header id="header">
+			<!DOCTYPE html>
+
+
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Document</title>
+<meta name="theme-color" content="#033e7c">
+<meta name="apple-mobile-web-app-status-bar-style" content="#0054ad">
+<link rel="shortcut icon" href="images/ap-logo.ico" />
+<link rel="icon" sizes="192x192" href="images/ap-logo.ico">
+<link rel="apple-touch-icon" href="images/ap-logo.ico">
+<link rel="apple-touch-icon" sizes="76x76" href="images/ap-logo.ico">
+<link rel="apple-touch-icon" sizes="120x120" href="images/ap-logo.ico">
+<link rel="apple-touch-icon" sizes="152x152" href="images/ap-logo.ico">
+<meta name="msapplication-square310x310logo"
+	content="images/ap-logo.ico">
+<meta name="msapplication-square70x70logo" content="images/ap-logo.ico">
+<meta name="msapplication-square150x150logo"
+	content="images/ap-logo.ico">
+<meta name="msapplication-wide310x150logo" content="images/ap-logo.ico">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+
+
+<link href="/home/css/main.css"
+	rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet"
+	href="/home/css/bootstrap/bootstrap.min.css">
+<link rel="stylesheet"
+	href="/home/css/owlcarousel/owl.carousel.min.css">
+<link rel="stylesheet"
+	href="/home/css/owlcarousel/owl.theme.default.min.css">
+<link rel="stylesheet"
+	href="/home/css/homepage/style.css">
+<link rel="stylesheet" type="text/css" media="screen"
+	href="/home/css/home-responsive.css" />
+<script type="text/javascript"
+	src="/home/js/jquery-3.1.1.js"></script>
+<script
+	src="/home/js/bootstrap/bootstrap.min.js"></script>
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> -->
+<style>
+_:-ms-fullscreen, :root .dropdown-item {
+	white-space: nowrap;
+}
+
+.registrationRedirection a, .colregistrationRedirection a {
+	padding: 10px;
+	background: #007bff;
+	color: #fff !important;
+	margin: 0 0 15px;
+	/* max-width: 60px; */
+	white-space: normal;
+	width: 100%;
+}
+
+/* #registerPopupwindow button {
+	width: 115px;
+	height: auto;
+	word-break: break-word;
+	white-space: normal;
+	font-weight: 500 !important;
+	display: inline-block;
+	margin: 0 !important;
+} */
+/* #registerPopupwindow button p {
+	min-height: 55px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 5px;
+	color: #fff;
+} */
+
+/* #registerPopupwindow .login form {
+	max-width: 100%;
+	padding: 20px !important;
+} */
+#registerPopupwindow button img {
+	height: 40px;
+	padding: 5px;
+}
+
+#registerPopupwindow ul.list-inline {
+	margin-top: 30px;
+}
+
+.login-window {
+	max-width: 600px !important;
+}
+
+/* .misdashboard :hover .dropdown-content {display: block;} */
+
+
+.apssdcloader {
+	position: absolute;
+	top: 0px;
+	display: inline-block;
+	z-index: 999;
+	height: 100%;
+	width: 100%;
+}
+
+.apssdcloader-img {
+	text-align: center;
+	margin-top: 15%;
+}
+
+blink {
+	-webkit-animation: 2s linear infinite condemned_blink_effect;
+	//
+	for
+	Android
+	animation
+	:
+	2s
+	linear
+	infinite
+	condemned_blink_effect;
+}
+
+@
+-webkit-keyframes condemned_blink_effect { // for Android 0% {
+	visibility:hidden;
+	
+}
+
+50%
+{
+visibility
+:hidden
+;
+
+
+}
+100%
+{
+visibility
+:visible
+;
+
+
+}
+}
+@
+keyframes condemned_blink_effect { 0% {
+	visibility: hidden;
+}
+
+50%
+{
+visibility
+:hidden
+;
+
+
+}
+100%
+{
+visibility
+:visible
+;
+
+
+}
+}
+#dashboard : hover{
+	color: #fff !important;
+	font-size: 12px !important;
+	padding: 15px;
+}
+
+</style>
+
+</head>
+
+<body>
+	<div class="top-header">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-6 col-sm-12 top-header-message">
+					<span> 
+						<em><p style="font-size: 10px; font-weight: 600">*Use Google Chrome
+								for better experience</p></em>
+					</span>
+					
+				</div>
+				<div class="col-md-6 col-sm-12 text-right app-primary-actions">
+					
+					<span id="register" class="login-call-link" data-toggle="modal" data-target="#registerPopupwindow"
+						data-backdrop="static" data-keyboard="false"> <img
+						src="/home/images/login.svg" alt="">
+						<p>Login</p>
+					</span> <span class="blink" id="login" href="" data-toggle="modal"
+						data-target="#registerPopupwindow" data-backdrop="static"
+						data-keyboard="false"> <img
+						src="/home/images/register-icon.svg" class="mr-2"> 
+						<p>Register</p>
+					</span>
+				</div>
+			</div>
+		</div>
+	</div>
+	<nav
+		class="navbar navbar-expand-lg navbar-light bg-light navbar-survey p-0"
+		id="header_navbar">
+		<div class="container-fluid mt-1 mb-1">
+			<!-- <div class="row w-100">
+				<div class="col-2">
+					<a class="navbar-brand" href="/home"> <img
+						src="/home/images/logo.png" alt="">
+					</a>
+				</div>
+				<div class="col-8 vert-middle">
+					<div>
+						<h4 class="mb-0 text-center">
+							Andhra Pradesh State <br> Skill Development Corporation (APSSDC) <br>
+						</h4>
+						<small>
+							(Department of Skill Development, Entrepreneurship & Innovation, Govt. of Andhrapradesh)
+						</small>
+					</div>
+				</div>
+				<div class="col-2 text-right vertical-end">
+					<img src="/home/images/logos/AP_Govt_logo.png" style="width: 60px; height: 50px;" alt="">
+				</div>
+			</div> -->
+			
+			<img src="/home/images/ap_aproved-newheader.png" class="w-100 d-none d-sm-block">
+			<img src="/home/images/ap_aproved-newheader-mobile.png" class="w-100 d-block d-sm-none">
+					</div>
+					<div class="second-header">
+						<div class="container-fluid">
+							<button class="navbar-toggler" type="button" data-toggle="collapse"
+								data-target="#navbarSupportedContent"
+								aria-controls="navbarSupportedContent" aria-expanded="false"
+								aria-label="Toggle navigation">
+								<span class="navbar-toggler-icon"></span>
+							</button>
+							<div class="collapse navbar-collapse" id="navbarSupportedContent">
+								<ul class="navbar-nav ml-auto mr-auto">
+						<li class="nav-item"><a class="nav-link"
+							href="/home/homepage">Home</a></li>
+						<li class="nav-item dropdown"><a
+							class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
+							role="button" data-toggle="dropdown" aria-haspopup="true"
+							aria-expanded="false"> About Us </a>
+							<div class="dropdown-menu" aria-labelledby="navbarDropdown"
+								style="display: none;">
+								<a class="dropdown-item"
+									href="/home/aboutus">Vision
+									&amp; Mission</a> <a class="dropdown-item"
+									href="/home/directorboard">Board
+									of Directors</a> <a class="dropdown-item"
+									href="/home/milestones">Milestones
+									&amp; Achievements</a> <a class="dropdown-item"
+									href="/home/faq">FAQs</a> 
+									 
+									
+								<a class="dropdown-item"
+									href="/home/howwework">How We Work</a> 
+									<a class="dropdown-item"
+									href="/home/rti">RTI</a>
+							</div></li>
+						<li class="nav-item dropdown"><a
+							class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
+							role="button" data-toggle="dropdown" aria-haspopup="true"
+							aria-expanded="false">Dashboard</a>
+							
+							<div class="dropdown-menu" aria-labelledby="navbarDropdown"
+								style="display: none;">
+								<!-- <a class="nav-link dropdown-toggle" href="#" id="dashboard"
+									role="button" data-toggle="dropdown" aria-haspopup="true"
+									aria-expanded="false">MIS Dashboard</a>
+								<div class="dropdown-menu" aria-labelledby="dashboard"
+									style="display: none;">
+									<a class="dropdown-item"
+										href="https://dashboard.apssdc.in/#/signin?externalRedirect=%2Fviews%2FMISDASHBOARD%2FNEWLANDPAGE%3FiframeSizedToWindow%3Dtrue%26:embed%3Dy%26:showAppBanner%3Dfalse%26:display_count%3Dno%26:showVizHome%3Dno%26:tabs%3Dno&site=">Job
+										Skills</a> <a class="dropdown-item"
+										href="https://dashboard.apssdc.in/views/EngReports_15844618855840/NEWLANDPAGE?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no">Engineering</a>
+								</div> -->	
+								<ul>
+								<li><a class="dropdown-item"
+									href="/home/OverViewDashboard">OverView Dashboard</a></li>
+									
+									
+									<li><a class="dropdown-toggle dropdown-item " href="#submenu" id="dashboard" 
+									role="button" data-toggle="dropdown" aria-haspopup="true"
+									aria-expanded="false">MIS Dashboard</a>
+									<div id ="submenu" data-toggle="collapse" class="collapse" >
+									<ul class="nav flex-column sub-menu">
+								<li><a class="dropdown-item" onclick="jobskills()">
+										Job Skills</a>	</li>
+								<li> <a class="dropdown-item" onclick="engineering()">
+										Engineering</a>	</li>
+										</ul>
+									</div>
+								  </li>
+								</ul>	
+							</div></li>
+
+
+						 
+									
+									
+								
+								<!-- <a class="dropdown-item"
+									href="escDashboard">ESC Dashboard </a>
+									 -->
+	
+								<!-- <a class="dropdown-item"
+									href="./mynDashboard"
+									target="_blank">MYN DASHBOARD</a> -->
+								
+								
+							<!-- </div></li> --> 
+						<li class="nav-item dropdown"><a
+							class="nav-link dropdown-toggle" href="#" id="navbarDropdown2"
+							role="button" data-toggle="dropdown" aria-haspopup="true"
+							aria-expanded="false"> Skill Stories </a>
+							<div class="dropdown-menu" aria-labelledby="navbarDropdown2">
+								<a class="dropdown-item"
+									href="/home/skillstories">Skill
+									Stories</a> <a class="dropdown-item"
+									href="/home/employeestory">Employer
+									Stories</a>
+								
+							</div></li>
+					
+						<li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navbarDropdown3" role="button"
+								data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Institute Finder </a>
+							<div class="dropdown-menu" aria-labelledby="navbarDropdown3">
+								
+								
+	                            
+								<a class="dropdown-item" href="/home/Esccolleges">Find ESC Colleges</a>
+								<a class="dropdown-item" href="/home/institutefinder">Find Training Centres</a>
+								<a class="dropdown-item" href="/home/TPfinder">Find Training Partners</a>
+								
+								<a class="dropdown-item" href="/home/SDCfinder">Find SDCs</a>
+								<a class="dropdown-item" href="/home/CMSDCfinder">Find CMSDCs</a>
+							</div>
+						</li>
+						<li class="nav-item dropdown"><a
+							class="nav-link dropdown-toggle" href="#" id="navbarDropdown13"
+							role="button" data-toggle="dropdown" aria-haspopup="true"
+							aria-expanded="false"> Tenders </a>
+							<div class="dropdown-menu" aria-labelledby="navbarDropdown13">
+								<a class="dropdown-item" href="./eoi">EOI</a>
+								<a class="dropdown-item"
+									href="/home/newtenders">RFP's/EOI</a>
+								<a class="dropdown-item"
+									href="/home/EvaluationReport">Evaluation Report</a>	
+							</div></li>
+								<li class="nav-item"><a class="nav-link"
+							href="/home/jobs">Jobs</a></li>
+								<li class="nav-item dropdown">
+									<a href="#" class="nav-link dropdown-toggle" id="navbarDropdown14" role="button" data-toggle="dropdown" aria-haspopup="true"
+									aria-expanded="false">Skill Development</a>
+									<div class="dropdown-menu">
+										<a class="dropdown-item" href="/home/sectorcourses">Skill Courses</a>
+										<a class="dropdown-item" href="/home/enggCourses">Engineering Courses</a>
+									</div>
+								</li>
+								
+							<li class="nav-item"><a class="nav-link"
+							href="/home/career">Careers</a></li>
+						
+						<li class="nav-item dropdown"><a
+							class="nav-link dropdown-toggle" href="#" id="navbarDropdown5"
+							role="button" data-toggle="dropdown" aria-haspopup="true"
+							aria-expanded="false"> Media </a>
+							<div class="dropdown-menu" aria-labelledby="navbarDropdown5">
+								
+								<a class="dropdown-item"
+									href="/home/gallery">Gallery</a> 
+									<a
+									class="dropdown-item" href="./videos">Videos</a>
+								<!-- <a
+									class="dropdown-item" href="#">Social Media</a> -->
+							</div></li>
+						<li class="nav-item"><a class="nav-link"
+							href="/home/contactus">Contact</a></li>
+						
+						
+						
+						<!-- <li class="nav-item dropdown"><a
+							class="nav-link dropdown-toggle" href="#" id="navbarDropdown9"
+							role="button" data-toggle="dropdown" aria-haspopup="true"
+							aria-expanded="false"> DashBoard </a>
+							<div class="dropdown-menu" aria-labelledby="navbarDropdown9">
+								<a class="dropdown-item"
+									href="http://103.231.8.112/views/MUKHYAMANTRIYUVANESTAM/MYNDASHBOARD?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no"
+									target="_blank">MYNREPORT</a>
+							</div></li> -->
+					</ul>
+				</div>
+			</div>
+		</div>
+	</nav>
+	<div class="container-fluid">
+		
+		<div class="modal show login-modal-popup reg-modal-wrapper fade"
+			id="registerPopupwindow" style="z-index: 10000">
+			<div class="modal-dialog">
+				<div>
+					<div class="login-container text-center modal-content">
+						<div class="w-100">
+							<button type="button"
+								class="close close-btn text-right loginclosebutton"
+								data-dismiss="modal">&times;</button>
+						</div>
+						<div class="container-fluid p-0 login-container">
+							<div class="row w-100">
+								<div class="col-md-5 p-0 login-popup-banner">
+									<div class="popup-banner-content">
+										<div class="avatar-icon">
+											
+											<img src="/home/images/apssdc_final.png" alt="">	
+										</div>
+										<h4>Andhra Pradesh State Skill Development Corporation</h4>
+									</div>
+								</div>
+								<div class="col-md-7 p-0">
+									<div class="login text-left active">
+										<form class="login-form"
+											action="/home/login"
+											method="POST">
+											<h4 class="mt-5 mb-4">Login</h4>
+											<div class="text-left form-group position-relative">
+												<label path="Username" class="control-label ">Username:<span
+													class="req">*</span>
+												</label> <input class="form-control aps-form-control"
+													path="Username" id="username" type="text" name="username"
+													placeholder="Username" autofocus />
+												<img src="/home/images/flaticons/user.svg">
+											</div>
+											<div class="text-left form-group position-relative">
+												<label path="Password" class="control-label ">Password:<span
+													class="req">*</span>
+												</label> <input class="form-control aps-form-control"
+													path="Password" id="password" type="password"
+													name="password" placeholder="Password" />
+													<img src="/home/images/flaticons/fingerprint.svg">
+											</div>
+											<span class="loginError " style="color: red; font: bold;"></span>
+											<div class="row mt-4">
+												<div class="col">
+													<div class="text-left">
+														<input class="btn btn-primary text-white" type="submit"
+															value="Login" /><br>
+													</div>
+												</div>
+												<div class="col vert-middle">
+													<a href="/home/forgotpassword">Forgot
+														Password</a>
+												</div>
+											</div>
+											<div class="text-left mt-4">
+												<label><b>Are you a new user?</b></label> <a
+													class="ml-1 new-user-reg" href="#" id="newuserregister">Register
+													Here </a>
+
+											</div>
+										
+										</form>
+									</div>
+									<div class="register-window">
+										<div class="w-100 h-100">
+											<div class="row">
+												<div class="col-md-12 text-left">
+													<h4 class="mt-5 mb-4">Register</h4>
+													<p class="mb-4">Please select a registration type</p>
+													<ul class="list-inline mt-5 user-type-option">
+														<li class="list-inline-item"><button id="jobskillCandRegister">
+																<img
+																	src="/home/images/flaticons/boss.svg"
+																	alt="">
+																<p>Candidate</p>
+															</button>
+														</li>
+														<li class="list-inline-item"><button id="jobskillColRegister">
+																<img
+																	src="/home/images/flaticons/scholarship.svg"
+																	alt="">
+																<p>College</p>
+															</button>
+														</li>
+														<li class="list-inline-item"><button id="orgRegister">
+																<img
+																	src="/home/images/flaticons/meeting.svg"
+																	alt="">
+																<p>Employer</p>
+															</button>
+														</li>
+														<li class="list-inline-item"><button id="aspireRegister"> <img
+																src="/home/images/flaticons/classroom.svg"
+																alt="">
+																<p>School</p>
+														
+													</li>
+													</ul>
+													<span> Already Have an Account? <a
+														class="mt-4 new-user-reg"> <img
+															src="/home/images/flaticons/login-square-arrow-button-outline.svg"
+															alt=""> Login Here
+													</a>
+													</span>
+
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+	<div class="container-fluid">
+		
+
+	</div>
+	<div class="container">
+		<div class="modal show" id="feedbackPopupwindow">
+			<div class="modal-dialog">
+				<div>
+					<div class="login-container text-center modal-content">
+						<div class="w-100">
+							<button type="button"
+								class="close close-btn text-right loginclosebutton"
+								data-dismiss="modal">&times;</button>
+						</div>
+						<div class="container-fluid ">
+							<div class="col-sm-12" id="feed_back_form_id"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="apssdcloader" style="display: none">
+		<div class="apssdcloader-img">
+			<img alt=""
+				src="/home/images/apssdcloader.svg">
+		</div>
+	</div>
+
+	<script>
+	
+	function jobskills() { 
+		window.open("https://dashboard.apssdc.in/#/signin?externalRedirect=%2Fviews%2FMISDASHBOARD%2FNEWLANDPAGE%3FiframeSizedToWindow%3Dtrue%26:embed%3Dy%26:showAppBanner%3Dfalse%26:display_count%3Dno%26:showVizHome%3Dno%26:tabs%3Dno&site=");
+		} 
+	
+	function engineering() { 
+		window.open("https://dashboard.apssdc.in/views/EngReports_15844594817500/NEWLANDPAGE?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no&:tabs=no#2");
+	} 
+	
+		$('ul.navbar-nav li.dropdown').hover(
+				function() {
+					$(this).find('.dropdown-menu').stop(true, true).delay(200)
+							.fadeIn(500);
+				},
+				function() {
+					$(this).find('.dropdown-menu').stop(true, true).delay(200)
+							.fadeOut(500);
+				});
+
+		window.oncontextmenu = function () {
+            
+            return false;
+        }
+		
+		  window.addEventListener("keydown", function(e) {
+		        if (e.ctrlKey && event.shiftKey && (e.which == 65 || e.which == 66 || e.which == 67 || e.which == 70 || e.which == 73 || e.which == 74 || e.which == 80 || e.which == 83 || e.which == 85 || e.which == 86 )) {
+		            e.preventDefault()
+		        }
+		    });
+		 document.keypress = function(e) {
+		        if (e.ctrlKey && event.shiftKey && (e.which == 65 || e.which == 66 || e.which == 67 || e.which == 70 || e.which == 73 || e.which == 74 || e.which == 80 || e.which == 83 || e.which == 85 || e.which == 86 )) {}
+		        return false
+		    }; 
+		    document.onkeydown = function(e) {
+		        e = e || window.event;
+		        if (e.keyCode == 123 || e.keyCode == 18) {
+		            return false
+		        }
+		    };
+		    document.oncontextmenu = function(e) {
+		        var t = e || window.event;
+		        var n = t.target || t.srcElement;
+		        if (n.nodeName != "A") return false
+		    };
+		    document.ondragstart = function() {
+		        return false
+		    }; 
+		$(document)
+				.ready(
+						function(e) {
+							  $("body").on("contextmenu",function(e){
+					              return false;
+					          });
+						
+							$(".close").click(function() {
+								$(".registrationRedirection").hide();
+
+							})
+							var contextPath = "/home";
+							var url = e.ajaxSettings.url;
+							/* $('#jobskillCandRegister').click(
+									function() {
+										window.location.href = contextPath
+												+ "/candidateregistration";
+										return false;
+									}); */
+
+							$('#jobskillCandRegister').click(
+									function() {
+										window.location.href = contextPath
+												+ "/candregredirect";
+										return false;
+									});
+
+							$('#skillconnectRegister').click(
+									function() {
+										window.location.href = contextPath
+												+ "/organizationregister";
+										return false;
+									});
+							/* $('#tpRegister').click(
+									function() {
+										window.location.href = contextPath
+												+ "/tpregistration";
+										return false;
+									}); */
+
+							$('#orgRegister').click(
+									function() {
+										window.location.href = contextPath
+												+ "/organizationregister";
+										return false;
+									});
+							// engg embedded
+							/* $('#enggCandRegister').click(
+									function() {
+										window.location.href = contextPath
+												+ "/EnggCandidateReg";
+										return false;
+									}); */
+							$('#candRegister')
+									.click(
+											function() {
+												$(".colregistrationRedirection")
+														.hide();
+												$(".registrationRedirection")
+														.slideDown("slow");
+												return false;
+											})
+							$('#collegeRegister').click(
+									function() {
+										$(".registrationRedirection").hide();
+										$(".colregistrationRedirection")
+												.slideDown("slow");
+										return false;
+									})
+							/* $('#jobskillColRegister').click(
+									function() {
+										window.location.href = contextPath
+												+ "/collegeregistration";
+										return false;
+									}); */
+
+							$('#jobskillColRegister').click(
+									function() {
+										window.location.href = contextPath
+												+ "/collegeegredirect";
+										return false;
+									});
+
+							/* $('#enggColRegister')
+									.click(
+											function() {
+												window.location.href = contextPath
+														+ "/collegeregistration?isEngg=1";
+												return false;
+											}); */
+							$('#aspireRegister').click(
+									function() {
+										window.location.href = contextPath
+												+ "/aspireregistration";
+										return false;
+									});
+							$('#home_jobseeker').click(
+									function() {
+										window.location.href = contextPath
+												+ "/jobSeekerRegistration";
+										return false;
+									});
+
+							// ***********
+							let errCheck = getUrlParameter('error');
+							//let errname = getUrlParameter('name');
+							if (errCheck == 'invalidusernameorpassword') {
+								$('.loginError').text(
+										'Invalid Username or Password');
+								$('#register').trigger('click');
+							} else if (errCheck == 'disableduser') {
+								$('.loginError').text(
+										'Please wait for admin\'s approval');
+								$('#register').trigger('click');
+							}
+
+							function getUrlParameter(sParam) {
+								var sPageURL = decodeURIComponent(window.location.search
+										.substring(1)), sURLVariables = sPageURL
+										.split('&'), sParameterName, i;
+
+								for (i = 0; i < sURLVariables.length; i++) {
+									sParameterName = sURLVariables[i]
+											.split('=');
+
+									if (sParameterName[0] === sParam) {
+										return sParameterName[1] === undefined ? true
+												: sParameterName[1];
+									}
+								}
+							}
+							;
+							$("#register")
+									.click(
+											function() {
+												$('.loginError').text('');
+
+												$('#popUpWindow')
+														.on(
+																'shown.bs.modal',
+																function(e) {
+																	document
+																			.getElementById(
+																					'username')
+																			.focus();
+																});
+
+												//$("#popUpWindow").modal('show');
+
+											})
+							$(".loginclosebutton").click(function() {
+								$('.login-form')[0].reset();
+
+							})
+
+							/* url = url.substring(url.lastIndexOf('/') + 1);
+							switch (url) {
+							case 'candidateregistration':
+								$('#header_navbar').hide();
+								break;
+							case 'tpregistration':
+								$('#header_navbar').hide();
+								break;
+							case 'savecandidate':
+								$('#header_navbar').hide();
+								break;
+							case 'collegeregistration':
+								$('#header_navbar').hide();
+								break;
+							case 'tpregistration?message=success':
+								$('#header_navbar').hide();
+								break;
+							case 'saveorganization':
+								$('#header_navbar').hide();
+								break;
+							case 'organizationregister':
+								$('#header_navbar').hide();
+								break;
+							case 'organizationregister?message=success':
+								$('#header_navbar').hide();
+								break;
+							case 'collegeregistration?isEngg=1':
+								$('#header_navbar').hide();
+								break;
+							default:
+								$('#header_navbar').show();
+							}*/
+
+							/* 	if (~url.indexOf("organizationregister?message=success&username")) {
+									$('#header_navbar').hide();
+								} */
+
+						});
+		 $(document).keydown(function () {
+			 if (event.keyCode == 123) {
+			 return false;
+			 }
+			 else if (event.ctrlKey && event.shiftKey && event.keyCode == 73) {
+			 return false;
+			 }
+			 });
+		/* $("#newuserregister").click(function() {
+			$("#popUpWindow").modal('hide');
+			$('.modal-backdrop').hide();
+			$("#registerPopupwindow").modal('show');
+
+		}) */
+
+		$("#openfeedbackform").on("click", function() {
+			$.get("./stdfedbackbycc", function(data) {
+				$('.apssdcloader').show();
+				$("#feed_back_form_id").empty();
+				$("#feed_back_form_id").html(data);
+				$('.apssdcloader').hide();
+			});
+		});
+		$(".login-modal-popup .new-user-reg").click(function() {
+			$(".login-modal-popup .login").toggleClass("active");
+		});
+		$(".loginclosebutton").click(function() {
+			$(".login-modal-wrapper .login").removeClass("active");
+		});
+		$("#login").click(function() {
+			$(".reg-modal-wrapper .login").addClass("active");
+		})
+		$(".login-call-link").click(function() {
+			$(".reg-modal-wrapper .login").removeClass("active");
+		})
+	</script>
+</body>
+
+</html>
+		</header>
+	
+		
+			
+		<article id="site-content" style="width:100%">
+				<div class="loader-wrapper" style="display: none">
+						<div class="loading-google-spinner">
+								<svg class="loading-google-spinner__circle-svg" viewBox="25 25 50 50">
+										<circle class="loading-google-spinner__circle-stroke" cx="50" cy="50" r="20" fill="none"
+												stroke-width="2" stroke-miterlimit="10" />
+								</svg>
+						</div>
+				</div>
+			<!DOCTYPE html>
+
+
+
+
+
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Welcome to the APSSDC Portal</title>
+<link rel="stylesheet"
+	href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+	integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
+	crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" media="screen"
+	href="/home/css/apssdcchatbot.css" />
+<meta name="theme-color" content="#033e7c">
+<meta name="apple-mobile-web-app-status-bar-style" content="#0054ad">
+<link rel="shortcut icon" href="images/ap-logo.ico" />
+<link rel="icon" sizes="192x192" href="images/ap-logo.ico">
+<link rel="apple-touch-icon" href="images/ap-logo.ico">
+<link rel="apple-touch-icon" sizes="76x76" href="images/ap-logo.ico">
+<link rel="apple-touch-icon" sizes="120x120" href="images/ap-logo.ico">
+<link rel="apple-touch-icon" sizes="152x152" href="images/ap-logo.ico">
+
+<link rel="stylesheet" type="text/css"
+	href="/home/css/lightboxcss/lc_lightbox.css">
+
+<link rel="stylesheet" type="text/css"
+	href="/home/css/lightboxcss/minimal.css">
+
+<link rel="stylesheet" type="text/css"
+	href="/home/css/lightboxcss/fonts/lc_lightbox.woff">
+
+<meta name="msapplication-square310x310logo"
+	content="images/ap-logo.ico">
+<meta name="msapplication-square70x70logo" content="images/ap-logo.ico">
+<meta name="msapplication-square150x150logo"
+	content="images/ap-logo.ico">
+<meta name="msapplication-wide310x150logo" content="images/ap-logo.ico">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<script type="text/javascript">
+  var _paq = _paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//leexam-ust-global.com/analytics/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<style>
+.apssdcloader {
+	position: absolute;
+	top: 0px;
+	display: inline-block;
+	z-index: 999;
+	height: 100%;
+	width: 100%;
+}
+
+.apssdcloader-img {
+	text-align: center;
+	margin-top: 15%;
+}
+
+.jobmela-static-div {
+	background: #007bb5d9;
+	height: 180px;
+	color: white;
+	border-radius: 5px;
+}
+
+.jobmela-static-div>p {
+	padding: 5px;
+}
+
+.marq-effect {
+	background: #d6d6d6;
+	height: 28px;
+	box-shadow: 0 0 15px 0px rgba(0, 0, 0, 0.15);
+	font-weight: 600;
+	padding: 5px;
+	box-shadow: 0 0 15px 0px rgba(0, 0, 0, 0.15);
+	font-weight: 600;
+	font-weight: 600;
+	/* color: #fff; */
+}
+
+/* .marq-effect a {
+	
+} */
+.table-responsive {
+	max-height: 300px;
+}
+
+table tr th {
+	min-width: 8em;
+}
+
+.zoom {
+	transition: all 0.3s ease-in-out;
+}
+
+.zoom:hover {
+	-ms-transform: scale(2.5); /* IE 9 */
+	-webkit-transform: scale(2.5); /* Safari 3-8 */
+	transform: scale(2.5);
+	z-index: 100;
+	position: relative;
+}
+
+.cm-p {
+	display: none;
+}
+
+.cm-msg {
+	display: none;
+}
+
+/* .nav-tabs {
+	border: none !important;
+	margin-top: -4em;
+	margin-left: 3em;
+	color: #fff;
+} */
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .drives.active {
+	background: #0109ab;
+	color: #fff;
+	border-radius: 5px;
+	border: 0;
+	border-radius: 5px;
+}
+
+.cm-msg {
+	display: none;
+}
+
+.timeline-Tweet-text {
+	font-size: 14px !important;
+}
+
+/* .nav-tabs .nav-link {
+	color: #fff;
+} */
+
+/* ._2p3a {
+	width: 528px !important;
+} */
+body ._2p3a {
+	width: 100% !important;
+}
+
+.ui-autocomplete {
+	z-index: 999999 !important;
+}
+
+#ui-id-1 {
+	position: absolute !important;
+	/* top: 251.667px !important; */
+	/* left: 873.867px !important; */
+	/* height: 100% !important; */
+	overflow: auto !important;
+}
+
+.menulistz {
+	font-weight: 600;
+	color: #000;
+}
+
+.mileCards {
+	transition: all .75s ease-in-out;
+	cursor: pointer;
+}
+
+.mileCards:hover h3 {
+	color: #fff;
+}
+
+.mileCards:hover p {
+	color: #fff !important;
+	position: relative;
+}
+
+.mileCards:before {
+	content: '';
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	background-image: linear-gradient(rgba(0, 8, 21, 0.85));
+	left: 0;
+	top: 100%;
+	transition: all .5s ease-in-out;
+	border-radius: 5px;
+}
+
+.mileCards:hover:before {
+	background-image: linear-gradient(rgba(0, 212, 255, 100), #007af1);
+	transition: all .5s ease-in-out;
+	top: 0;
+	border-radius: 5px;
+}
+
+.lcl_fade_oc.lcl_pre_show #lcl_overlay, .lcl_fade_oc.lcl_pre_show #lcl_window,
+	.lcl_fade_oc.lcl_is_closing #lcl_overlay, .lcl_fade_oc.lcl_is_closing #lcl_window
+	{
+	opacity: 0 !important;
+}
+
+.lcl_fade_oc.lcl_is_closing #lcl_overlay {
+	-webkit-transition-delay: .15s !important;
+	transition-delay: .15s !important;
+}
+
+#lcl_window {
+	width: 1000px !important;
+	height: 500px !important;
+}
+
+.elem, .elem * {
+	box-sizing: border-box;
+	margin: 0 !important;
+}
+
+.elem {
+	display: inline-block;
+	font-size: 0;
+	width: 100%;
+	border: 20px solid transparent;
+	border-bottom: none;
+	background: #fff;
+	padding: 10px;
+	height: auto;
+	background-clip: padding-box;
+}
+
+.gallery img {
+	width: 100% !important;
+}
+
+.elem>span {
+	display: block;
+	cursor: pointer;
+	height: 0;
+	padding-bottom: 70%;
+	background-size: cover;
+	background-position: center center;
+}
+
+.gallery img {
+	width: 100% !important;
+}
+
+/* .owl-stage-outer {
+	height: 500px;
+} */
+/* section.skill-jobs-block{
+	background:url("./images/courses_bg.jpg")
+} */
+
+/* covid-19 css  */
+.corona-helpline {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	margin: 10px;
+	display: flex;
+	z-index: 999;
+}
+
+.corona-helpline img {
+	width: 100px;
+	height: 100px;
+	z-index: 1;
+	position: relative;
+	right: -20px;
+}
+
+.corona-awareness-message {
+	background-color: #033e7c;
+	height: 50px;
+	/* margin-left: -50px; */
+	background-image: url("./images/covid/18704.png");
+	background-size: cover;
+	-webkit-animation: 500s scroll infinite linear;
+	-moz-animation: 500s scroll infinite linear;
+	-o-animation: 500s scroll infinite linear;
+	-ms-animation: 500s scroll infinite linear;
+	animation: 500s scroll infinite linear;
+}
+
+.corona-help {
+	width: 20px;
+	height: 20px;
+}
+
+@-webkit-keyframes scroll { 100% {
+	background-position: 0px -3000px;
+}
+
+}
+@-moz-keyframes scroll { 100% {
+	background-position: 0px -3000px;
+}
+
+}
+@-o-keyframes scroll { 100% {
+	background-position: 0px -3000px;
+}
+
+}
+@-ms-keyframes scroll { 100% {
+	background-position: 0px -3000px;
+}
+
+}
+@keyframes scroll { 100% {
+	background-position: 0px -3000px;
+}
+
+}
+.corona-awareness-message svg {
+	width: 20px;
+	height: 20px;
+	fill: white;
+	margin-left: 10px;
+}
+/* covid-19 css  */
+.main-carousel  .owl-nav {
+	display: none !important;
+}
+
+.slider-newsupdates li a {
+	font-size: 14px;
+	font-weight: 500;
+}
+
+.nav-tabs.slider-newsupdates {
+	border-bottom: 2px solid #04458a;
+}
+
+.slider-newsupdates .nav-item {
+	margin-bottom: -2px;
+}
+
+.slider-newsupdates .nav-link:focus, .slider-newsupdates .nav-link:hover
+	{
+	border: 1px solid transparent;
+}
+
+.ap-updates-banner {
+	height: 100%;
+	background: #f1f1f1;
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	overflow: hidden;
+}
+
+.ap-date-mnth {
+	background: #016d34;
+	color: #fff;
+}
+.ap-date-mnth,
+.ap-date-year {
+    font-size: 11px;
+}
+.ap-updates-box .col-md-10 h5{
+	font-size: 1.15rem;
+}
+.ap-updates-date {
+	font-weight: 600;
+	border: 1px solid #016d34;
+}
+
+.slider-newsupdates .nav-item .nav-link {
+	position: relative;
+}
+
+.slider-newsupdates  .nav-link .badge-new {
+	top: -8px;
+	right: -3px;
+	position: absolute;
+	font-weight: 500;
+}
+
+.ap-viewmore {
+	font-size: 14px;
+	font-weight: 700;
+	float: right;
+	padding: 10px;
+}
+.interfacing-links {
+    background: #f2f3f6;
+}
+.interfacing-links svg {
+    height: 35px;
+    float: right;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+.interfacing-links  .col{
+	margin-bottom: 30px;
+}
+.interfacing-links .card {
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    height: 170px;
+}
+.interfacing-links .col:nth-child(5n+1) svg{
+	fill: #643a96;
+}
+.interfacing-links .col:nth-child(5n+1) .card:hover{
+	background-color: #e0d7ea;
+	-webkit-transform: translateY(-12px);
+    transform: translateY(-12px);
+}
+.interfacing-links .col:nth-child(5n+2) svg{
+	fill: #f68933;
+}
+.interfacing-links .col:nth-child(5n+2) .card:hover{
+	background-color: #ffeacc;
+	-webkit-transform: translateY(-12px);
+    transform: translateY(-12px);
+}
+.interfacing-links .col:nth-child(5n+3) svg{
+	fill: #009959;
+}
+.interfacing-links .col:nth-child(5n+3) .card:hover{
+	background-color: #cceade;
+	-webkit-transform: translateY(-12px);
+    transform: translateY(-12px);
+}
+.interfacing-links .col:nth-child(5n+4) svg{
+	fill: #d62184;
+}
+.interfacing-links .col:nth-child(5n+4) .card:hover{
+	background-color: #ecb6d4;
+	-webkit-transform: translateY(-12px);
+    transform: translateY(-12px);
+}
+.interfacing-links .col:nth-child(5n+5) svg{
+	fill: #be1e2d;
+}
+.interfacing-links .col:nth-child(5n+5) .card:hover{
+	background-color: #f2d2d5;
+	-webkit-transform: translateY(-12px);
+    transform: translateY(-12px);
+}
+.interfacing-links .card {
+ -webkit-box-shadow: none; 
+   box-shadow: none; 
+   border: 1px solid rgba(0,0,0,.125) !important;
+}
+.row-cols-5>* {
+    -ms-flex: 0 0 20%;
+    flex: 0 0 20%;
+    max-width: 20%;
+}
+.row-cols-4>* {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+</style>
+</head>
+<body>
+
+	<!-- <div class="loader-wrapper">
+				<div class="loader">
+					<img src="images/apssdc.png">
+				</div>
+			</div> -->
+
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-xs-12 col-md-6 col-lg-7">
+				<div class="position-relative my-4">
+
+					<div class="owl-carousel owl-theme main-carousel"
+						id="bannerImagesId">
+
+						<!-- <div class="owl-carousel owl-theme main-carousel">
+						<div class="item" style="background: url('images/gallery/chairmail25092019-0.jpg');"></div>
+						<div class="item" style="background: url('images/gallery/chairmail25092019-1.jpg');"></div>
+						<div class="item" style="background: url('images/gallery/chairmail27082019-0.jpg');"></div>
+						<div class="item" style="background: url('images/gallery/chairmail27082019-1.jpg');"></div>
+						<div class="item" style="background: url('images/gallery/chairmail27082019-2.jpg');"></div>
+						<div class="item" style="background: url('images/gallery/chairmail27082019-3.jpg');"></div>
+						<div class="item" style="background: url('images/gallery/chairmail27082019-4.jpg');"></div>
+						<div class="item" style="background: url('images/gallery/chairmail27082019-5.jpg');"></div>
+						<div class="item" style="background: url('images/gallery/chairmail27082019-6.jpg');"></div>
+						<div class="item" style="background: url('images/gallery/chairmail27082019-7.jpg');"></div>
+						<div class="item" style="background: url('images/gallery/chairmail21082019-0.jpg');"></div>
+						<div class="item" style="background: url('images/gallery/chairmail21082019-1.jpg');"></div> -->
+						 <!-- <div class="item"
+						style="background: url('https://www.apssdc.in/home/AdminImageUploads/78645449_670067220066499_5553250279727562752_o.jpg');"></div>
+					<div class="item"
+						style="background: url('images/gallery/chairmail21082019-3.jpg');"></div>
+					<div class="item"
+						style="background: url('images/gallery/chairmail21082019-4.jpg');"></div>
+					<div class="item"
+						style="background: url('images/gallery/chairmail21082019-5.jpg');"></div>
+					<div class="item"
+						style="background: url('images/gallery/chairmail21082019-6.jpg');"></div>
+					<div class="item"
+						style="background: url('images/gallery/bannner-1.jpg');"></div>
+					<div class="item"
+						style="background: url('images/gallery/bannner-2.jpg');"></div>
+					<div class="item"
+						style="background: url('images/gallery/bannner-3.jpg');"></div>
+					<div class="item"
+						style="background: url('images/gallery/bannner-4.jpg');"></div>  -->
+
+					</div>
+
+
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-md-6 col-lg-5">
+				<ul class="nav nav-tabs my-4 slider-newsupdates" id="myTab"
+					role="tablist">
+					<!-- <li class="nav-item"><a class="nav-link active"
+						id="ap-updates-tab" data-toggle="tab" href="#ap-updates"
+						role="tab" aria-controls="ap-updates" aria-selected="true"> <span
+							class="badge badge-danger badge-new">New</span>Updates
+					</a></li> -->
+
+					<!-- <li class="nav-item"><a class="nav-link"
+						id="ap-events-updates-tab" data-toggle="tab"
+						href="#ap-events-updates" role="tab"
+						aria-controls="ap-events-updates" aria-selected="false">APSSDC Updates</a>
+					</li> -->
+					
+					<li class="nav-item"><a class="nav-link active" id="ap-events-tab"
+						data-toggle="tab" href="#ap-events" role="tab"
+						aria-controls="ap-events" aria-selected="false">Announcements
+						<span id="events_badge" class="badge badge-danger badge-new">New</span></a>
+					</li>
+					<li class="nav-item"><a class="nav-link"
+						id="ap-events-updates-tab" data-toggle="tab"
+						href="#ap-events-updates" role="tab"
+						aria-controls="ap-events-updates" aria-selected="true">Updates
+						<span id="updates_badge" class="badge badge-danger badge-new">New</span></a>
+					</li>
+					<li class="nav-item"><a class="nav-link" id="ap-jobfair-tab"
+						data-toggle="tab" href="#ap-jobfair" role="tab"
+						aria-controls="ap-jobfair" aria-selected="false">Job Opportunities
+						<!-- <span id="jobfair_badge" class="badge badge-danger badge-new">New</span> --></a>
+					</li>
+				</ul>
+
+				<div class="tab-content" id="myTabContent">
+					<div class="tab-pane fade" id="ap-events-updates"
+						role="tabpanel" aria-labelledby="ap-events-updates-tab">
+
+						<!-- Updates Should be dynamic -->
+						<div class="ap-updates-box border-bottom py-2">
+							<div class="row d-flex align-items-center">
+								<div class="col-md-10">
+									<!-- <p class="small mb-2">News and Updates</p> -->
+									<div class="apssdcUpdates /*eventtologin*/"
+										style="cursor: pointer"></div>
+								</div>
+							</div>
+						</div>
+
+						<a class="ap-viewmore" id="updates-view-more-id"
+							href="/home/homeupdates">View
+							More <i class="far fa-hand-point-right"></i>
+						</a>
+
+						<!-- Static Updates Links -->
+
+						<!-- <div class="ap-updates-box border-bottom py-2">
+                            <div class="row d-flex align-items-center">
+                                <div class="col-md-2">
+                                    <div class="ap-updates-date text-center">
+                                        <div class="ap-date-mnth py-1">
+                                            25 JUNE
+                                        </div>
+                                        <div class="ap-date-year py-1">
+                                            2020
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-10">
+                                    <p class="small mb-2">News and Updates</p>
+                                 <h5>APSSDC - Facebook collaboration on Tribal Youth Online Training  - GOAL 
+                                 <a href="https://drive.google.com/file/d/1IagZcyiFZYO3EM7hq4BlNviE_CWhCwz6/view?usp=sharing" target="_blank"><strong> Click Here To Apply</strong></a></h5>
+                                </div>
+                            </div>
+                            
+                            <div class="row d-flex align-items-center">
+                                <div class="col-md-2">
+                                    <div class="ap-updates-date text-center">
+                                        <div class="ap-date-mnth py-1">
+                                            03 JULY
+                                        </div>
+                                        <div class="ap-date-year py-1">
+                                            2020
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-10">
+                                    <p class="small mb-2">News and Updates</p>
+                                 <h5>APSSDC-  Webinar on Carrier Skills & Employability Skills 
+                                 <a href="https://docs.google.com/forms/d/1H7sJwIEJY8FWrx2PVCKxoYVD8dDPDI0c7ICfMVNT4Us/edit?ts=5efef7c7" target="_blank"><strong> Click Here To Apply</strong></a></h5>
+                                </div>
+                            </div>						
+						<div class="ap-updates-box border-bottom py-2">
+                            <div class="row d-flex align-items-center">
+                                <div class="col-md-2">
+                                    <div class="ap-updates-date text-center">
+                                        <div class="ap-date-mnth py-1">
+                                            03 JULY
+                                        </div>
+                                        <div class="ap-date-year py-1">
+                                            2020
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-10">
+                                    <p class="small mb-2">News and Updates</p>
+                                 <h5> APSSDC-Webinar on Cyber Security 
+                                 <a href="https://docs.google.com/forms/d/1rEmxsCQ-R4KVOcUvhnzR_xB-kLD2fRACdPsvvK6dypE/edit?ts=5efef7d5" target="_blank"><strong> Click Here To Apply</strong></a></h5>
+                                </div>
+                            </div>
+                            
+                            <div class="row d-flex align-items-center">
+                                <div class="col-md-2">
+                                    <div class="ap-updates-date text-center">
+                                        <div class="ap-date-mnth py-1">
+                                            03 JULY
+                                        </div>
+                                        <div class="ap-date-year py-1">
+                                            2020
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-10">
+                                    <p class="small mb-2">News and Updates</p>
+                                 <h5>APSSDC-Webinar on Yoga is skill in Action 
+                                 <a href="https://docs.google.com/forms/d/1Cbw-2EWGZgbLrAiWm6We3dkbYXbZYZ-2Z1GlZKyqmfw/edit?ts=5efef7e9" target="_blank"><strong> Click Here To Apply</strong></a></h5>
+                                </div>
+                            </div>
+                            
+                            <div class="row d-flex align-items-center">
+                                <div class="col-md-2">
+                                    <div class="ap-updates-date text-center">
+                                        <div class="ap-date-mnth py-1">
+                                            03 JULY
+                                        </div>
+                                        <div class="ap-date-year py-1">
+                                            2020
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-10">
+                                    <p class="small mb-2">News and Updates</p>
+                                 <h5>APSSDC-Webinar on Concrete Construction Work  
+                                 <a href="https://docs.google.com/forms/d/1iVtu60A-dXtnlSOfA7gESMSiTT6n2esteHkNdKmu_88/edit?ts=5efefde9" target="_blank"><strong> Click Here To Apply</strong></a></h5>
+                                </div>
+                            </div>
+
+                        </div> -->
+					</div>
+					<!-- updates Tab end here -->
+
+                    <!-- Events Should be dynamic -->
+					<div class="tab-pane fade show active" id="ap-events" role="tabpanel"
+						aria-labelledby="ap-events-tab">
+						 <div class="ap-updates-box border-bottom py-2">
+							<div class="row d-flex align-items-center">
+								<div class="col-md-10">
+									<!-- <p class="small mb-2">APSSDC Events Updates</p> -->
+									<div class="skconnectupdates /*eventtologin*/"
+										style="cursor: pointer"></div>
+								</div>
+							</div>
+						</div>
+						
+						<a class="ap-viewmore" id="events-view-more-id"
+							href="/home/homenewsupdate#apssdc-events">View
+							More <i class="far fa-hand-point-right"></i>
+						</a>
+						
+						<!-- <div class="ap-updates-box border-bottom py-2">
+							<div class="row d-flex align-items-center">
+								<div class="col-md-2">
+									<div class="ap-updates-date text-center">
+										<div class="ap-date-mnth py-1">01 July</div>
+										<div class="ap-date-year py-1">2020</div>
+									</div>
+								</div>
+								<div class="col-md-10">
+									<p class="small mb-2">Events Update</p>
+									<h5>
+										APSSDC-Faculty Development Programs ( Engineering,Polytechnic & ITI ) <a
+											href="http://engineering.apssdc.in/FIP/"
+											target="_blank"><strong> Click Here To View</strong></a>
+									</h5>
+								</div>
+							</div>
+						</div>
+
+						<div class="ap-updates-box border-bottom py-2">
+							<div class="row d-flex align-items-center">
+								<div class="col-md-2">
+									<div class="ap-updates-date text-center">
+										<div class="ap-date-mnth py-1">01 July</div>
+										<div class="ap-date-year py-1">2020</div>
+									</div>
+								</div>
+								<div class="col-md-10">
+									<p class="small mb-2">Events Update</p>
+									<h5>
+										APSSDC-Online Training Programs ( Engineering & Polytechnic ) <a
+											href="http://engineering.apssdc.in/"
+											target="_blank"><strong> Click Here To View</strong></a>
+									</h5>
+								</div>
+							</div>
+						</div>
+						<div class="ap-updates-box border-bottom py-2">
+							<div class="row d-flex align-items-center">
+								<div class="col-md-2">
+									<div class="ap-updates-date text-center">
+										<div class="ap-date-mnth py-1">25 June</div>
+										<div class="ap-date-year py-1">2020</div>
+									</div>
+								</div>
+								<div class="col-md-10">
+									<p class="small mb-2">Events Update</p>
+									<h5>
+										APSSDC - Dassault Systemes Faculty Development Program(Building Information program FDT) 
+										<a href=" https://forms.gle/X73QyAgyiUi9xaho8 ">Click Here To Apply</a>
+									</h5>
+								</div>
+							</div>
+						</div>
+						
+						<div class="ap-updates-box border-bottom py-2">
+							<div class="row d-flex align-items-center">
+								<div class="col-md-2">
+									<div class="ap-updates-date text-center">
+										<div class="ap-date-mnth py-1">24 June</div>
+										<div class="ap-date-year py-1">2020</div>
+									</div>
+								</div>
+								<div class="col-md-10">
+									<p class="small mb-2">Events Update</p>
+									<h5>
+										APSSDC - Dassault Systemes Students Workshop(Building Information Program ) <a href=" https://forms.gle/g869wSrjhtb1angF8">Click Here To Apply</a>
+									</h5>
+								</div>
+							</div>
+						</div> -->
+					</div>
+                    <!-- Events Tab end here -->
+
+                    <!-- Job fair updates should be dynamic -->
+					<div class="tab-pane fade" id="ap-jobfair" role="tabpanel"
+						aria-labelledby="ap-jobfair-tab">
+						<div class="ap-updates-box border-bottom py-2">
+							<div class="row d-flex align-items-center">
+								<!-- <div class="col-md-2">
+									<div class="ap-updates-date text-center">
+										<div class="ap-date-mnth py-1">
+											01 June
+										</div>
+										<div class="ap-date-year py-1">
+											2020
+										</div>
+									</div>
+								</div> -->
+								<div class="col-md-10">
+									<!-- <p class="small mb-2">Job Fair Updates</p> -->
+									<div class="updates /*eventtologin*/" style="cursor: pointer">
+									<h5>Due to Covid-19 situation APSSDC is not conducting any job fair, 
+									    we will keep you updated for any upcoming job fairs.
+									</h5>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+					<!-- Job fair Tab end here -->
+					
+					
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<section class="links-section emp-stories pb-5">
+		<div class="container-fluid">
+			<small> SIGN UP </small>
+			<h2>Registration Links</h2>
+			<div class="owl-carousel owl-theme link-carousel mt-5">
+				<div class="item">
+					<a href="/home/candregredirect"> <img
+						src="images/flaticons/boss.svg" alt="">
+						<h4>Candidate</h4>
+					</a>
+				</div>
+				<div class="item">
+					<a href="/home/collegeegredirect">
+						<img src="images/flaticons/scholarship.svg" alt="">
+						<h4>College</h4>
+					</a>
+				</div>
+				<div class="item">
+					<a href="/home/organizationregister">
+						<img src="images/flaticons/meeting.svg" alt="">
+						<h4>Employer</h4>
+					</a>
+				</div>
+				<div class="item">
+					<a href="/home/aspireregistration">
+						<img src="images/flaticons/classroom.svg" alt="">
+						<h4>School</h4>
+					</a>
+				</div>
+				
+			</div>
+		</div>
+	</section>
+
+	<!-- <section class="job-mela-wrapper mt-3 mb-4">
+		<div class="container-fluid job-mela-container">
+			<div class="row">
+				<div class="col-lg-9 col-md-12">
+					<div class="row">
+						<div class="col-md-6">
+							<div class="update-box">
+								<div class="upd-box">
+									<img src="images/notification.svg">
+									<h5>Upcoming Job Fairs/Skill Connect Drives</h5>
+								</div>
+								<div class="update-inner">
+									<ul class="list-unstyled">
+										<li>
+											<div class="updates /*eventtologin*/" style="cursor: pointer"></div>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-md-6">
+							<div class="update-box">
+								<div class="upd-box">
+									<img src="images/notification.svg">
+									<h5>News & Updates</h5>
+								</div>
+								<div class="update-inner">
+									<marquee direction="up" height="100" onmouseover="this.stop();"
+										onmouseout="this.start();">
+
+										<ul class="list-unstyled">
+
+									<li>
+												<div class="event-item mb-3">
+													<div class="row">
+														<div class="col-2 vertical-start">
+															<span class="blink">NEW</span>
+														</div>
+														<div class="col-10 vm">
+													APSSDC - IBM Collaboration Online Training Program " SkillsBuild "<a
+																href="https://drive.google.com/file/d/1Jpc1fjxI_2PIC09k6ZECf-TfAT7yP-dg/view?usp=sharing"
+																target="_blank"> Click Here To Apply</a>
+														</div>
+
+													</div>
+												</div>
+
+											</li>
+											
+											<li>
+												<div class="event-item mb-3">
+													<div class="row">
+														<div class="col-2 vertical-start">
+															<span class="blink">NEW</span>
+														</div>
+														<div class="col-10 vm">
+													APSSDC -Nurses Recruitment  <a
+																href="https://drive.google.com/file/d/1SIFMq5YG7d94MJygO-P9cbyQVRsQeZHG/view?usp=sharing"
+																target="_blank"> Click Here To Apply</a>
+														</div>
+
+													</div>
+												</div>
+
+											</li>
+											<li>		
+												<div class="event-item mb-3">
+													<div class="row">
+														<div class="col-2 vertical-start">
+															<span class="blink">NEW</span>
+														</div>
+														<div class="col-10 vm">
+															APSSDC - Kia Motor India BTC Training Program(Only Diploma
+															Candidates) <a href="https://www.apssdc.in/home/kiaIntro"
+																target="_blank"> Click Here To Apply</a>
+														</div>
+		
+													</div>
+												</div>
+		
+											</li>
+											
+												<li>		
+												<div class="event-item mb-3">
+													<div class="row">
+														<div class="col-2 vertical-start">
+															<span class="blink">NEW</span>
+														</div>
+														<div class="col-10 vm">
+															APSSDC - Admissions are open for 5th Batch, at IIDT 
+															for PG Programmes in Cyber Security, Business 
+															Analytics and Industrial Internet of Things.<a href="http://register.iidt.edu.in/"
+																target="_blank"> Click Here To Apply</a>
+														</div>
+		
+													</div>
+												</div>
+		
+											</li>
+											
+											<li>Tenders</li>
+											<div class="tenderupdates /*eventtologin*/"
+												style="cursor: pointer"></div>
+											<li>
+												
+											</li>
+											
+											<li>Apssdc Events</li>
+											<div class="skconnectupdates /*eventtologin*/"
+												style="cursor: pointer"></div>
+		
+										</ul>
+									</marquee>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div> 
+			</div>
+		</div>
+	</section>-->
+
+	<section class="interfacing-links py-5">
+		<div class="container-fluid">
+			<small> HELPING LINKS </small>
+			<h2>APSSDC Programs</h2>
+			<div class="row">
+				<div class="col-md-10">
+					<div class="row row-cols-4 pt-5">
+						<div class="col">
+							<div class="card p-4">
+								<a href="http://engineering.apssdc.in/siemens/" target="_blank">
+								<h3 class="d-block w-100">Seimens</h3>
+									<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+										viewBox="0 0 330 330" style="enable-background:new 0 0 330 330;" xml:space="preserve">
+									<path id="XMLID_2_" d="M165,0C74.019,0,0,74.019,0,165s74.019,165,165,165s165-74.019,165-165S255.981,0,165,0z M225.606,175.605
+										l-80,80.002C142.678,258.535,138.839,260,135,260s-7.678-1.464-10.606-4.394c-5.858-5.857-5.858-15.355,0-21.213l69.393-69.396
+										l-69.393-69.392c-5.858-5.857-5.858-15.355,0-21.213c5.857-5.858,15.355-5.858,21.213,0l80,79.998
+										c2.814,2.813,4.394,6.628,4.394,10.606C230,168.976,228.42,172.792,225.606,175.605z"/>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									</svg>
+								</a>
+							</div>
+						</div>
+						<div class="col">
+							<div class="card p-4">
+								<a href="http://engineering.apssdc.in/i2e/" target="_blank">
+								<h3>Entrepreneurship Development</h3>
+									<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+										viewBox="0 0 330 330" style="enable-background:new 0 0 330 330;" xml:space="preserve">
+									<path id="XMLID_2_" d="M165,0C74.019,0,0,74.019,0,165s74.019,165,165,165s165-74.019,165-165S255.981,0,165,0z M225.606,175.605
+										l-80,80.002C142.678,258.535,138.839,260,135,260s-7.678-1.464-10.606-4.394c-5.858-5.857-5.858-15.355,0-21.213l69.393-69.396
+										l-69.393-69.392c-5.858-5.857-5.858-15.355,0-21.213c5.857-5.858,15.355-5.858,21.213,0l80,79.998
+										c2.814,2.813,4.394,6.628,4.394,10.606C230,168.976,228.42,172.792,225.606,175.605z"/>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									</svg>
+								</a>
+							</div>
+						</div>
+						<div class="col">
+							<div class="card p-4">
+								<a href="http://engineering.apssdc.in/iucee" target="_blank">
+								<h3>Indo Universal Collaboration for Engineering Education</h3>
+									<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+										viewBox="0 0 330 330" style="enable-background:new 0 0 330 330;" xml:space="preserve">
+									<path id="XMLID_2_" d="M165,0C74.019,0,0,74.019,0,165s74.019,165,165,165s165-74.019,165-165S255.981,0,165,0z M225.606,175.605
+										l-80,80.002C142.678,258.535,138.839,260,135,260s-7.678-1.464-10.606-4.394c-5.858-5.857-5.858-15.355,0-21.213l69.393-69.396
+										l-69.393-69.392c-5.858-5.857-5.858-15.355,0-21.213c5.857-5.858,15.355-5.858,21.213,0l80,79.998
+										c2.814,2.813,4.394,6.628,4.394,10.606C230,168.976,228.42,172.792,225.606,175.605z"/>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									</svg>
+								</a>
+							</div>
+						</div>
+						<div class="col">
+							<div class="card p-4">
+								<a href="http://engineering.apssdc.in/uif/" target="_blank">
+								<h3>University Innovation Fellows</h3>
+									<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+										viewBox="0 0 330 330" style="enable-background:new 0 0 330 330;" xml:space="preserve">
+									<path id="XMLID_2_" d="M165,0C74.019,0,0,74.019,0,165s74.019,165,165,165s165-74.019,165-165S255.981,0,165,0z M225.606,175.605
+										l-80,80.002C142.678,258.535,138.839,260,135,260s-7.678-1.464-10.606-4.394c-5.858-5.857-5.858-15.355,0-21.213l69.393-69.396
+										l-69.393-69.392c-5.858-5.857-5.858-15.355,0-21.213c5.857-5.858,15.355-5.858,21.213,0l80,79.998
+										c2.814,2.813,4.394,6.628,4.394,10.606C230,168.976,228.42,172.792,225.606,175.605z"/>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									</svg>
+								</a>
+							</div>
+						</div>
+						<div class="col">
+							<div class="card p-4">
+								<a href="http://engineering.apssdc.in/FIP/" target="_blank"> 
+								<h3>Faculty Improvement Programme</h3>
+									<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+										viewBox="0 0 330 330" style="enable-background:new 0 0 330 330;" xml:space="preserve">
+									<path id="XMLID_2_" d="M165,0C74.019,0,0,74.019,0,165s74.019,165,165,165s165-74.019,165-165S255.981,0,165,0z M225.606,175.605
+										l-80,80.002C142.678,258.535,138.839,260,135,260s-7.678-1.464-10.606-4.394c-5.858-5.857-5.858-15.355,0-21.213l69.393-69.396
+										l-69.393-69.392c-5.858-5.857-5.858-15.355,0-21.213c5.857-5.858,15.355-5.858,21.213,0l80,79.998
+										c2.814,2.813,4.394,6.628,4.394,10.606C230,168.976,228.42,172.792,225.606,175.605z"/>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									</svg>
+								</a>
+							</div>
+						</div>
+						<div class="col">
+							<div class="card p-4">
+								<a href="http://engineering.apssdc.in/worldskillsap/" target="_blank">
+								<h3>World Skills AP</h3>
+									<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+										viewBox="0 0 330 330" style="enable-background:new 0 0 330 330;" xml:space="preserve">
+									<path id="XMLID_2_" d="M165,0C74.019,0,0,74.019,0,165s74.019,165,165,165s165-74.019,165-165S255.981,0,165,0z M225.606,175.605
+										l-80,80.002C142.678,258.535,138.839,260,135,260s-7.678-1.464-10.606-4.394c-5.858-5.857-5.858-15.355,0-21.213l69.393-69.396
+										l-69.393-69.392c-5.858-5.857-5.858-15.355,0-21.213c5.857-5.858,15.355-5.858,21.213,0l80,79.998
+										c2.814,2.813,4.394,6.628,4.394,10.606C230,168.976,228.42,172.792,225.606,175.605z"/>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									</svg>
+								</a>
+							</div>
+						</div>
+						<div class="col">
+							<div class="card p-4">
+								<a href="http://engineering.apssdc.in/igdc/" target="_blank">
+								<h3>India Game Summit</h3>
+									<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+										viewBox="0 0 330 330" style="enable-background:new 0 0 330 330;" xml:space="preserve">
+									<path id="XMLID_2_" d="M165,0C74.019,0,0,74.019,0,165s74.019,165,165,165s165-74.019,165-165S255.981,0,165,0z M225.606,175.605
+										l-80,80.002C142.678,258.535,138.839,260,135,260s-7.678-1.464-10.606-4.394c-5.858-5.857-5.858-15.355,0-21.213l69.393-69.396
+										l-69.393-69.392c-5.858-5.857-5.858-15.355,0-21.213c5.857-5.858,15.355-5.858,21.213,0l80,79.998
+										c2.814,2.813,4.394,6.628,4.394,10.606C230,168.976,228.42,172.792,225.606,175.605z"/>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									<g>
+									</g>
+									</svg>
+								</a>
+							</div>
+						</div>
+					</div>
+
+				</div>
+				<div class="col-md-2 portal-jobs pt-3">
+					<div class="col-lg-12 p-0 mb-5">
+						<a href="/home/sectorcourses">
+							<div class="card text-center mb-0" style="background-image: url(images/431.jpg)">
+					
+					
+								<h3>
+									<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg"
+										xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 480.049 480.049"
+										style="enable-background: new 0 0 480.049 480.049;" xml:space="preserve">
+										<g>
+											<g>
+												<path
+													d="M448.027,160.049h-104c-4.418,0-8,3.582-8,8v32c0,4.418,3.582,8,8,8h24c8.837,0,16,7.163,16,16s-7.163,16-16,16h-24
+																					   c-4.418,0-8,3.582-8,8v40h-120c-4.418,0-8,3.582-8,8v104c0,17.673,14.327,32,32,32h208c17.673,0,32-14.327,32-32v-208
+																					   C480.027,174.376,465.7,160.049,448.027,160.049z M336.027,416.049h-96c-8.837,0-16-7.163-16-16v-96h112v16h-16
+																					   c-17.673,0-32,14.327-32,32c0,17.673,14.327,32,32,32h16V416.049z M464.027,400.049c0,8.837-7.163,16-16,16h-96v-40
+																					   c0-4.418-3.582-8-8-8h-24c-8.837,0-16-7.163-16-16s7.163-16,16-16h24c4.418,0,8-3.582,8-8v-24h24v16c0,17.673,14.327,32,32,32
+																					   c17.673,0,32-14.327,32-32v-16h24V400.049z M464.027,288.049h-32c-4.418,0-8,3.582-8,8v24c0,8.837-7.163,16-16,16s-16-7.163-16-16
+																					   v-24c0-4.418-3.582-8-8-8h-32v-32h16c17.673,0,32-14.327,32-32s-14.327-32-32-32h-16v-16h96c8.837,0,16,7.163,16,16V288.049z" />
+											</g>
+										</g>
+										<g>
+											<g>
+												<path d="M352.027,32.049h-16v-24c0-4.418-3.582-8-8-8h-104c-17.673,0-32,14.327-32,32v89.6l-33.096,16
+																					   c-4.977-6.574-11.155-12.145-18.208-16.416c31.601-15.834,44.383-54.288,28.549-85.889C153.438,3.743,114.984-9.039,83.383,6.795
+																					   C51.782,22.629,39,61.083,54.834,92.684c5.46,10.896,13.917,20.007,24.377,26.261c-16.745,8.166-29.112,23.208-33.888,41.216
+																					   l-31.872,100.36c-9.017,28.347-7.183,59.032,5.144,86.104c13.074,28.616,12.462,61.617-1.664,89.728l-16.064,32.12
+																					   c-1.975,3.952-0.372,8.757,3.58,10.732c1.112,0.555,2.337,0.844,3.58,0.844h88c4.418,0,8-3.582,8-8
+																					   c0.024-14.848-8.225-28.473-21.392-35.336l3.824-7.632c11.58-23.28,15.348-49.673,10.744-75.264l-5.936-32.64
+																					   c-0.76-4.213,2.04-8.245,6.253-9.005c0.45-0.081,0.906-0.122,1.363-0.123c3.744-0.004,6.956,2.669,7.632,6.352l10.864,59.776
+																					   c1.761,9.709,2.648,19.557,2.648,29.424v64.448c0,4.418,3.582,8,8,8h88c4.418,0,8-3.582,8-8c0-1.556-0.091-3.111-0.272-4.656
+																					   c-1.376-12.041-8.812-22.543-19.712-27.84c-8.924-4.548-19.262-5.465-28.848-2.56l5.328-26.624
+																					   c2.328-11.656,3.501-23.514,3.504-35.4v-71.608l-9.344-107.128l55.512-26.488c10.258-4.562,17.095-14.486,17.704-25.696h80.128
+																					   c4.418,0,8-3.582,8-8v-40h16c17.673,0,32-14.327,32-32S369.7,32.049,352.027,32.049z M64.027,64.049c0-26.51,21.49-48,48-48
+																					   c26.51,0,48,21.49,48,48s-21.49,48-48,48C85.529,112.023,64.054,90.548,64.027,64.049z M175.187,454.305
+																					   c6.662-3.781,14.779-3.958,21.6-0.472c4.371,2.118,7.826,5.747,9.728,10.216h-70.488v-56.448
+																					   c-0.001-10.828-0.975-21.634-2.912-32.288l-10.864-59.768c-2.234-12.922-14.521-21.586-27.442-19.351
+																					   c-12.922,2.234-21.586,14.521-19.351,27.442c0.023,0.135,0.048,0.27,0.074,0.405l5.944,32.64
+																					   c3.983,22.184,0.712,45.061-9.328,65.24l-7.768,15.528c-2.002,3.939-0.432,8.755,3.507,10.757
+																					   c0.553,0.281,1.138,0.497,1.741,0.643c7.882,1.857,14.289,7.577,17.024,15.2h-65.68l10.256-20.544
+																					   c16.291-32.428,16.997-70.494,1.92-103.504c-10.69-23.466-12.281-50.067-4.464-74.64l32-100.8
+																					   c6.64-24.877,31.351-40.414,56.648-35.616c10.455,2.094,19.892,7.666,26.776,15.808l-47.28,22.84
+																					   c-10.239,4.981-16.755,15.35-16.8,26.736c-0.04,16.374,13.201,29.681,29.575,29.721c4.467,0.011,8.878-0.987,12.905-2.921
+																					   l36.8-17.544l8.72,100.464v70.92c-0.009,10.831-1.081,21.635-3.2,32.256l-8.528,42.608c-0.87,4.332,1.935,8.549,6.267,9.419
+																					   c1.898,0.381,3.869,0.062,5.549-0.899L175.187,454.305z M223.651,155.153l-0.24,0.104l-107.8,51.432
+																					   c-6.829,3.252-15.002,0.352-18.254-6.478c-0.875-1.838-1.329-3.847-1.33-5.882c0.02-5.247,3.02-10.027,7.736-12.328l108.664-52.48
+																					   c4.321-1.929,9.329-1.513,13.272,1.104c3.982,2.557,6.372,6.98,6.328,11.712C232.025,147.893,228.739,152.921,223.651,155.153z
+																						M352.027,80.049h-24c-4.418,0-8,3.582-8,8v40h-75.608c-7.031-12.987-22.492-18.894-36.392-13.904V32.049c0-8.837,7.163-16,16-16
+																					   h96v24c0,4.418,3.582,8,8,8h24c8.837,0,16,7.163,16,16S360.864,80.049,352.027,80.049z" />
+											</g>
+										</g>
+										<g>
+											<g>
+												<path d="M322.371,210.393l-26.344,26.344v-44.688h-16v60.688l-8,8l-8-8v-28.688h-16v12.688l-26.344-26.344l-11.312,11.312l56,56
+																					   c3.124,3.123,8.188,3.123,11.312,0l56-56L322.371,210.393z" />
+											</g>
+										</g>
+										<g>
+											<g>
+												<rect x="248.027" y="192.049" width="16" height="16" />
+											</g>
+										</g>
+										<g>
+											<g>
+												<rect x="248.027" y="160.049" width="16" height="16" />
+											</g>
+										</g>
+										<g>
+											<g>
+												<rect x="280.027" y="160.049" width="16" height="16" />
+											</g>
+										</g>
+										<g>
+										</g>
+										<g>
+										</g>
+										<g>
+										</g>
+										<g>
+										</g>
+										<g>
+										</g>
+										<g>
+										</g>
+										<g>
+										</g>
+										<g>
+										</g>
+										<g>
+										</g>
+										<g>
+										</g>
+										<g>
+										</g>
+										<g>
+										</g>
+										<g>
+										</g>
+										<g>
+										</g>
+										<g>
+										</g>
+									</svg>
+									Skills
+								</h3>
+							</div>
+						</a>
+					</div>
+					<div class="col-lg-12 p-0">
+						<a href="/home/jobs">
+							<div class="card text-center mb-0" style="background-image: url(images/245.jpg)">
+								<h3>
+									<svg viewBox="0 -24 480 480" xmlns="http://www.w3.org/2000/svg">
+										<path
+											d="m456 72h-104v-32c-.027344-22.082031-17.917969-39.9726562-40-40h-144c-22.082031.0273438-39.972656 17.917969-40 40v32h-104c-13.253906 0-24 10.746094-24 24v178.078125c.0507812 10.148437 6.445312 19.175781 16 22.585937v111.335938c0 13.253906 10.746094 24 24 24h400c13.253906 0 24-10.746094 24-24v-111.328125c9.554688-3.414063 15.953125-12.445313 16-22.59375v-178.078125c0-13.253906-10.746094-24-24-24zm-312-32c0-13.253906 10.746094-24 24-24h144c13.253906 0 24 10.746094 24 24v32h-16v-32c0-4.417969-3.582031-8-8-8h-144c-4.417969 0-8 3.582031-8 8v32h-16zm160 32h-128v-24h128zm144 336c0 4.417969-3.582031 8-8 8h-400c-4.417969 0-8-3.582031-8-8v-108.585938l176 24.273438v20.3125c0 13.253906 10.746094 24 24 24h16c13.253906 0 24-10.746094 24-24v-20.3125l176-24.273438zm-192-64c0 4.417969-3.582031 8-8 8h-16c-4.417969 0-8-3.582031-8-8v-48c0-4.417969 3.582031-8 8-8h16c4.417969 0 8 3.582031 8 8zm208-69.921875c.003906 3.988281-2.929688 7.371094-6.878906 7.929687l-2.21875.304688-182.902344 25.222656v-11.535156c0-13.253906-10.746094-24-24-24h-16c-13.253906 0-24 10.746094-24 24v11.535156l-185.113281-25.527344c-3.949219-.554687-6.890625-3.9375-6.886719-7.929687v-178.078125c0-4.417969 3.582031-8 8-8h432c4.417969 0 8 3.582031 8 8zm0 0" />
+									</svg>
+									Jobs
+								</h3>
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+
+	<div class="modal fade modal-sector-batches" id="homecourselist">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h4 class="modal-title">Batches</h4>
+				</div>
+				<div class="modal-body">
+					<div class="panel panel-default">
+						<div class="panel-body table-responsive">
+							<table class="table table-bordered table-striped">
+								<thead>
+									<tr>
+										<th>Sl no.</th>
+										<th>Sector Job Role</th>
+										<th>Batch Name</th>
+										<th>TC Name</th>
+										<th>District</th>
+										<th width="10%">Start Date</th>
+										<th width="10%">End Date</th>
+										<th>Apply</th>
+									</tr>
+								</thead>
+								<tbody id="homecourseitems">
+
+								</tbody>
+							</table>
+						</div>
+					</div>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-danger text-white"
+						data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<section class="milestones inverse" id="milestones">
+		<div class="container-fluid section-container">
+			<small> MILESTONES </small>
+			<h2>Our Achievements</h2>
+			<p>APSSDC has covered the following milestones of</p>
+			<div class="row mt-5">
+				<div class="col-md-4 col-6 achievement-box">
+					<div class="row m-0">
+						<div class="col-md-4 p-0 achv-icon">
+							<img src="images/graduation.svg" alt="">
+						</div>
+						<div class="col-md-8 p-0 achv-description vert-middle mileCards">
+							<div id="studentsregistered">
+								<h3 id="registerdstudents"></h3>
+								<p>Students Registered</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 col-6 achievement-box">
+					<div class="row m-0">
+						<div class="col-md-4 p-0 achv-icon">
+							<img src="images/worker.svg" alt="">
+						</div>
+						<div class="col-md-8 p-0 achv-description vert-middle mileCards">
+							<div id="studentsskilled">
+								<h3 id="skilledyouth"></h3>
+								<p>Skilled Youth</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- 			<div class="col-md-4 col-6 achievement-box">
+                    <div class="row m-0">
+                        <div class="col-md-4 p-0 achv-icon">
+                            <img src="images/document.svg" alt="">
+                        </div>
+                        <div class="col-md-8 p-0 achv-description vert-middle">
+                            <div>
+                                <h3>
+                                    45623
+                                </h3>
+                                <p>
+                                    Registered Candidates
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+				<div class="col-md-4 col-6 achievement-box">
+					<div class="row m-0">
+						<div class="col-md-4 p-0 achv-icon">
+							<img src="images/presentation.svg" alt="">
+						</div>
+						<div class="col-md-8 p-0 achv-description vert-middle mileCards">
+							<div id="providerLink">
+								<h3 id="trainingproviders"></h3>
+								<p>Training Providers</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 col-6 achievement-box">
+					<div class="row m-0">
+						<div class="col-md-4 p-0 achv-icon">
+							<img src="images/workers.svg" alt="">
+						</div>
+						<div class="col-md-8 p-0 achv-description vert-middle">
+							<div>
+								<h3 id="employers"></h3>
+								<p>Employers</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 col-6 achievement-box">
+					<div class="row m-0">
+						<div class="col-md-4 p-0 achv-icon">
+							<img src="images/school.svg" alt="">
+						</div>
+						<div class="col-md-8 p-0 achv-description vert-middle">
+							<div>
+								<h3 id="institutes"></h3>
+								<p>No. of Institutes</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 col-6 achievement-box">
+					<div class="row m-0">
+						<div class="col-md-4 p-0 achv-icon">
+							<img src="images/partnership.svg" alt="">
+						</div>
+						<div class="col-md-8 p-0 achv-description vert-middle">
+							<div>
+								<h3 id="collabirations">300+</h3>
+								<p>No. of Collaborations</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- <div class="col-md-12 text-center mt-4">
+					<a class="btn btn-secondary"> View Details </a>
+				</div> -->
+			</div>
+		</div>
+	</section>
+	<!-- <section class="links-section emp-stories">
+		<div class="container-fluid">
+			<small> SIGN UP </small>
+			<h2>Registration Links</h2>
+			<div class="owl-carousel owl-theme link-carousel mt-5">
+				<div class="item">
+					<a href="/home/candregredirect"> <img
+						src="images/flaticons/boss.svg" alt="">
+						<h4>Candidate</h4>
+					</a>
+				</div>
+				<div class="item">
+					<a href="/home/collegeegredirect">
+						<img src="images/flaticons/scholarship.svg" alt="">
+						<h4>College</h4>
+					</a>
+				</div>
+				<div class="item">
+					<a href="/home/organizationregister">
+						<img src="images/flaticons/meeting.svg" alt="">
+						<h4>Employer</h4>
+					</a>
+				</div>
+				<div class="item">
+					<a href="/home/aspireregistration">
+						<img src="images/flaticons/classroom.svg" alt="">
+						<h4>School</h4>
+					</a>
+				</div>
+				
+			</div>
+		</div>
+	</section> -->
+	<!-- 	
+	<section class="cm-msg in-view-watcher">
+		<div class="container">
+			<small> cm message </small>
+			<h2>CM Message</h2>
+			<div class="row">
+				<div class="col-md-4">
+					<img src="images/chandrababu.png" alt="">
+				</div>
+				<div class="col-md-8 vert-middle">
+					<div class="cm-msg-box">
+						<p>Students should have a choice in selecting courses with
+							various combinations, and educational institutions should not
+							force students to pick courses being offered by them, the purpose
+							behind setting up the Skill Development Corporation (SDC) is to
+							gather contents of various educational courses being offered all
+							over the world and provide such information to students.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="how-we-works">
+		<div class="container">
+			<small> working structure </small>
+			<h2>How We Work</h2>
+			<ul class="nav nav-tabs mt-4" id="myTab" role="tablist">
+				<li class="nav-item"><a class="nav-link active" id="home-tab"
+					data-toggle="tab" href="#home" role="tab" aria-controls="home"
+					aria-selected="true">Students</a></li>
+				<li class="nav-item"><a class="nav-link" id="profile-tab"
+					data-toggle="tab" href="#profile" role="tab"
+					aria-controls="profile" aria-selected="false">TP</a></li>
+				<li class="nav-item"><a class="nav-link" id="contact-tab"
+					data-toggle="tab" href="#contact" role="tab"
+					aria-controls="contact" aria-selected="false">TC</a></li>
+			</ul>
+			<p class="text-center mt-5 mb-4">Lorem Ipsum is simply dummy text
+				of the printing and typesetting industry. Lorem Ipsum has been the
+				industry's standard dummy text ever since the 1500s, when an unknown
+				printer took a galley of type and scrambled it to make a type
+				specimen book.</p>
+			<div class="tab-content" id="myTabContent">
+				<div class="tab-pane fade show active" id="home" role="tabpanel"
+					aria-labelledby="home-tab">
+					<div class="row mt-5">
+						<div class="col-md-4">
+							<div class="work-flow">
+								<div class="row">
+									<div class="col-md-5 text-center">
+										<div class="wf-order">
+											<img src="images/document.svg" alt="">
+											<h3>01</h3>
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="wf-text">
+											<h3>STUdent register</h3>
+											<p>Students interested in availing skill development
+												training under APSSDC will first have to register on our
+												portal.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="work-flow">
+								<div class="row">
+									<div class="col-md-5 text-center">
+										<div class="wf-order">
+											<img src="images/resume2.svg" alt="">
+											<h3>02</h3>
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="wf-text">
+											<h3>Apply for course</h3>
+											<p>Registered students can browse through various
+												courses/ programs being offered by APSSDC through various
+												Training center and apply for a course of their choice.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="work-flow">
+								<div class="row">
+									<div class="col-md-5 text-center">
+										<div class="wf-order">
+											<img src="images/presentation.svg" alt="">
+											<h3>03</h3>
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="wf-text">
+											<h3>get training</h3>
+											<br> <br> <br> <br>
+											<p>Upon successful application for a course/ program,
+												students will take training at the decided tc</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="work-flow">
+								<div class="row">
+									<div class="col-md-5 text-center">
+										<div class="wf-order">
+											<img src="images/essay.svg" alt="">
+											<h3>04</h3>
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="wf-text">
+											<h3>get certified</h3>
+											<br> <br> <br> <br>
+											<p>After the completion of the training program, students
+												will have to undergo an assessment test. Certificates will
+												be awarded to those students who successfully pass the test.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="work-flow">
+								<div class="row">
+									<div class="col-md-5 text-center">
+										<div class="wf-order">
+											<img src="images/briefcase.svg" alt="">
+											<h3>05</h3>
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="wf-text">
+											<h3>get placed</h3>
+											<p>APSSDC and the Training Center will work closely with
+												the students/ trainees to connect them with job
+												opportunities and facilitate their placements</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="tab-pane fade" id="profile" role="tabpanel"
+					aria-labelledby="profile-tab">
+					<div class="row mt-5">
+						<div class="col-md-4">
+							<div class="work-flow">
+								<div class="row">
+									<div class="col-md-5 text-center">
+										<div class="wf-order">
+											<img src="images/document.svg" alt="">
+											<h3>01</h3>
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="wf-text">
+											<h3>TP Register</h3>
+											<p>Training Partners willing to commence skill
+												development training under APSSDC will have to register on
+												our portal.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="work-flow">
+								<div class="row">
+									<div class="col-md-5 text-center">
+										<div class="wf-order">
+											<img src="images/resume2.svg" alt="">
+											<h3>02</h3>
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="wf-text">
+											<h3>TC Creation</h3>
+											<p>Confirmation and necessary approvals from APSSDC,
+												Training Partners are required to create a Training Centre
+												through which they would like to offer skill development
+												trainings.The TC approval is subject to a stringent
+												verification process at different levels</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="work-flow">
+								<div class="row">
+									<div class="col-md-5 text-center">
+										<div class="wf-order">
+											<img src="images/presentation.svg" alt="">
+											<h3>03</h3>
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="wf-text">
+											<h3>Assign Programs To TC</h3>
+											<br> <br> <br> <br> <br> <br> <br>
+											<p>After TC is approved by APSSDC, the TP is required to
+												assign a program in which they ARE like to undertake skill
+												development training to the TC.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="work-flow">
+								<div class="row">
+									<div class="col-md-5 text-center">
+										<div class="wf-order">
+											<img src="images/essay.svg" alt="">
+											<h3>04</h3>
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="wf-text">
+											<h3>Trainer Creation</h3>
+											<br> <br> <br> <br> <br> <br>
+											<p>Every TP is required to create a trainer who can be 
+												assigned to a particular program being offered at the respective Training Centre</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="work-flow">
+								<div class="row">
+									<div class="col-md-5 text-center">
+										<div class="wf-order">
+											<img src="images/briefcase.svg" alt="">
+											<h3>05</h3>
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="wf-text">
+											<h3>Arrange Training Programs</h3>
+											<br> <br> <br> <br> <br> <br> <br>
+											<p>At this stage, the Training Partner can make
+												arrangements to conduct the training program at their TC.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="tab-pane fade" id="contact" role="tabpanel"
+					aria-labelledby="contact-tab">
+					<div class="row mt-5">
+						<div class="col-md-4">
+							<div class="work-flow">
+								<div class="row">
+									<div class="col-md-5 text-center">
+										<div class="wf-order">
+											<img src="images/document.svg" alt="">
+											<h3>01</h3>
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="wf-text">
+											<h3>TP Creates TC</h3>
+											<br> <br> <br> <br>
+											<p>Upon confirmation and necessary approvals from APSSDC,
+												Training Partners are required to create a Training Centre
+												through which they like to offer skill development
+												trainings. The TC approval is subject to a stringent
+												verification process at different levels.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="work-flow">
+								<div class="row">
+									<div class="col-md-5 text-center">
+										<div class="wf-order">
+											<img src="images/resume2.svg" alt="">
+											<h3>02</h3>
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="wf-text">
+											<h3>Batch Creation</h3>
+											<br> <br> <br> <br> <br> <br>
+											<p>Every Training Centre should create a batch with all
+												the mobilized students for the approved program</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="work-flow">
+								<div class="row">
+									<div class="col-md-5 text-center">
+										<div class="wf-order">
+											<img src="images/presentation.svg" alt="">
+											<h3>03</h3>
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="wf-text">
+											<h3>Assign Trainer to Batch</h3>
+											<br> <br> <br> <br> <br> <br> <br>
+											<p>After creating the batch, the Training Centre is
+												required to assign a trainer to conduct training for the
+												batch</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="work-flow">
+								<div class="row">
+									<div class="col-md-5 text-center">
+										<div class="wf-order">
+											<img src="images/essay.svg" alt="">
+											<h3>04</h3>
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="wf-text">
+											<h3>Attendance Tracking</h3>
+											<br> <br> <br> <br> <br> <br>
+											<p>All TCs should ensure capturing of biometric
+												attendance on the APSSDC portal, and ensure strict
+												compliance to our guidelines</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="work-flow">
+								<div class="row">
+									<div class="col-md-5 text-center">
+										<div class="wf-order">
+											<img src="images/briefcase.svg" alt="">
+											<h3>05</h3>
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="wf-text">
+											<h3>Provide Placement</h3>
+											<p>Training Centre is responsible for conducting the
+												assessment and issuance of certificates for all eligible
+												candidates as per our guidelines</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<section class="skill-stories inverse">
+		<div class="container-fluid">
+			<small> stories </small>
+			<h2>Skill Stories</h2>
+			<div class="owl-carousel owl-theme carousel_slide" id="skill">
+				<!-- <div class="item">
+					<div class="sector">
+						<img src="images/quotes.png" alt="">
+						<h3>I have attended workshop on IOT fundamentals which was
+							organized by APSSDC. Before I attended the workshop, I had
+							limited knowledge on Internet of Things. Through this workshop I
+							came to know all about IOT, Programming, and how to develop an
+							Arduino. APSSDC mentors explained each and every module well and
+							clarified my doubts. Thanks to APSSDC Team.</h3>
+						<h2>
+							Dasaradha Ram <small> RVR & JC College of Engineering </small>
+						</h2>
+					</div>
+				</div>
+				<div class="item">
+					<div class="sector">
+						<img src="images/quotes.png" alt="">
+						<h3>I'm based in Andhra Pradesh. Thanks to APSSDC for giving
+							opportunity to learn Agricultural course. Now i'm working on a
+							company who produce Agricultural products.</h3>
+						<h2>
+							Sunayana <small> Nagarjuna Fertilizers. </small>
+						</h2>
+					</div>
+				</div>
+				<div class="item">
+					<div class="sector">
+						<img src="images/quotes.png" alt="">
+						<h3>I have attended workshop on IOT fundamentals which was
+							organized by APSSDC. Before I attended the workshop, I had
+							limited knowledge on Internet of Things. Through this workshop I
+							came to know all about IOT, Programming, and how to develop an
+							Arduino. APSSDC mentors explained each and every module well and
+							clarified my doubts. Thanks to APSSDC Team.</h3>
+						<h2>
+							Sunayana<small> Nagarjuna Fertilizers. </small>
+						</h2>
+					</div>
+				</div> -->
+			</div>
+		</div>
+		<div class="col-md-12 text-center mt-4">
+			<a href="/home/skillstories"
+				class="btn btn-secondary" id="seeAll"> See All </a>
+		</div>
+
+
+	</section>
+
+	<!-- 	<section class="skill-connect inverse">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8">
+					<div class="row">
+						<div class="col">
+							<small> JOB REQUIREMENTS </small>
+							<h2>Skill Connect</h2>
+
+						</div>
+						<div class="col text-right">
+							<a class="btn btn-secondary btn-custom"> <img
+								src="images/briefcase2.svg" alt=""> Post A Job
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-4">
+							<div class="form-group">
+								<label>Name of the Organization</label> <input type="text"
+									class="form-control"
+									placeholder="Enter Name of the Organization">
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="form-group">
+								<label>Job Role</label> <input type="text" class="form-control"
+									placeholder="Enter Job Role">
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="form-group">
+								<label>Experience</label> <input type="text"
+									class="form-control" placeholder="Enter Experience">
+							</div>
+						</div>
+						<div class="col-md-12 mt-3">
+							<div class="form-group">
+								<label>Enter Job Description</label>
+								<textarea class="form-control" rows="6"
+									placeholder="Enter Job Description"></textarea>
+							</div>
+							<a class="btn btn-secondary mt-4"> Submit </a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 vert-middle">
+					<div class="des-circle"></div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<section class="gallery">
+		<div class="container-fluid">
+			<!-- <small> IMAGE GALLERY </small> -->
+			<h2>Gallery</h2>
+
+			<div class="row  theme-hover" id="galleryimages">
+
+
+				<!-- 				<div class="item">
+					<img src="images/gallery/VAM_6764.jpg"
+						class="img-thumbnail mb-4 zoom" alt="...">
+				</div>
+				<div class="item">
+					<img src="images/gallery/VAM_6777-(1).jpg"
+						class="img-thumbnail mb-4 zoom" alt="...">
+				</div>
+				<div class="item">
+					<img src="images/gallery/VAM_6757.jpg"
+						class="img-thumbnail mb-4 zoom" alt="...">
+				</div>
+				<div class="item">
+					<img src="images/gallery/IMG_20190725_124648.jpg"
+						class="img-thumbnail mb-4 zoom" alt="...">
+				</div>
+				<div class="item">
+					<img src="images/gallery/IMG_20190725_134002.jpg"
+						class="img-thumbnail mb-4 zoom" alt="...">
+				</div>
+				<div class="item">
+					<img src="images/gallery/IMG_20190725_123409.jpg"
+						class="img-thumbnail mb-4 zoom" alt="...">
+				</div>
+				<div class="item">
+					<img src="images/gallery/apssdc_ceo_1.jpg"
+						class="img-thumbnail mb-4 zoom" alt="...">
+				</div>
+				<div class="item">
+					<img src="images/gallery/apssdc_ceo_2.jpg"
+						class="img-thumbnail mb-4 zoom" alt="...">
+				</div>
+				<div class="item">
+					<img src="images/gallery/apssdc_ceo_slider_2.jpg"
+						class="img-thumbnail mb-4 zoom" alt="...">
+				</div>
+				<div class="item">
+					<img src="images/gallery/new1.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="item">
+					<img src="images/gallery/new2.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="item">
+					<img src="images/gallery/new3.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="item">
+					<img src="images/gallery/new4.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="item">
+					<img src="images/gallery/new5.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="item">
+					<img src="images/gallery/new6.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="item">
+					<img src="images/gallery/g25.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="item">
+					<img src="images/gallery/g21.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="item">
+					<img src="images/gallery/g41.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="item">
+					<img src="images/gallery/g51.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="item">
+					<img src="images/gallery/g30.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="item">
+					<img src="images/gallery/g31.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="item">
+					<img src="images/gallery/g58.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div> -->
+			</div>
+
+			<!--<div class="row text-center">
+			
+				<div class="col-md-3">
+					<img src="images/gallery/new1.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="col-md-3">
+					<img src="images/gallery/new2.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="col-md-3">
+					<img src="images/gallery/new3.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="col-md-3">
+					<img src="images/gallery/new4.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="col-md-3">
+					<img src="images/gallery/new5.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="col-md-3">
+					<img src="images/gallery/new6.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+
+				<div class="col-md-3">
+					<img src="images/gallery/g25.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="col-md-3">
+					<img src="images/gallery/g21.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="col-md-3">
+					<img src="images/gallery/g25.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="col-md-3">
+					<img src="images/gallery/g41.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="col-md-3">
+					<img src="images/gallery/g51.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				 <div class="col-md-3">
+                    <img src="images/gallery/gallery12.JPG" class="img-thumbnail mb-4 zoom" alt="...">
+                </div> 
+				<div class="col-md-3">
+					<img src="images/gallery/g30.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="col-md-3">
+					<img src="images/gallery/g31.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+				<div class="col-md-3">
+					<img src="images/gallery/g58.jpg" class="img-thumbnail mb-4 zoom"
+						alt="...">
+				</div>
+			</div> -->
+		</div>
+
+		<div align="center" style="margin-top: 50px">
+
+			<a href="/home/gallery"
+				class="btn btn-primary seemore">See More</a>
+		</div>
+
+
+
+	</section>
+	<section class="news-socialmedia">
+		<div class="container-fluid">
+			<small> NEWS </small>
+			<h2>News & Social Media</h2>
+			<div class="row">
+				<div class="col-md-5">
+					<div class="social-box">
+						<img src="images/logos/facebook.png" style="height: 40px;"
+							alt="facebook" class="mb-4">
+						<div id="social-box-fb">
+							<!-- <iframe width="100%" id="fbframe"
+							src=""
+							style="border: none; overflow-y:auto" scrolling="no"
+							allowtransparency="true" width="100%" height="301" frameborder="0">
+						</iframe> -->
+						</div>
+
+					</div>
+				</div>
+				<!-- 	<div class="col-md-6" style="width: 100%">
+				
+			<iframe
+						src="https://www.youtube.com/channel/UCi_poa8KImZqOyQS37um4Pg"
+						scrolling="true" allowtransparency="true" frameborder="0"
+						width="100%" height="301"></iframe> 
+				</div> -->
+				<div class="col-md-5">
+					<div class="social-box">
+						<div style="height: 360px; overflow-y: auto;">
+							<img src="images/logos/twitter.png" style="height: 40px;"
+								alt="twitter"> <a class="twitter-timeline mb-4"
+								href="https://twitter.com/AP_Skill?ref_src=twsrc%5Etfw">Tweets
+								by AP_Skill</a>
+							<script async src="https://platform.twitter.com/widgets.js"
+								charset="utf-8"></script>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-2 social-section text-center">
+					<h5>Connect with us:</h5>
+					<ul class="list-inline social-icons">
+						<div class="row">
+							<li class="list-inline-item"><a
+								href="https://www.facebook.com/apssdcskilldevelopment/ "
+								target="_blank"><img src="images/facebook-logo.svg" alt=""></a></li>
+							<li class="list-inline-item"><a
+								href="https://twitter.com/AP_Skill" target="_blank"><img
+									src="images/twitter.svg" alt=""></a></li>
+							<li class="list-inline-item"><a
+								href="https://www.youtube.com/channel/UCK8D1c7dqR8PVWnUPf49TPA"
+								target="_blank"><img src="images/youtube.svg" alt=""></a></li>
+						</div>
+						<div class="row">
+							<li class="list-inline-item"><a
+								href="https://www.linkedin.com/company/apssdcskilldevelopment/"
+								target="_blank"><img src="images/linkedin-logo.svg" alt=""></a></li>
+							<li class="list-inline-item"><a
+								href="https://www.instagram.com/apskilldevelopment/"
+								target="_blank"><img src="images/instagramCircleLogo.png"
+									style="height: 60px; width: 60px;" alt=""></a></li>
+						</div>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- <section class="newsletter inverse">
+		<div class="container">
+			<small> stay connected </small>
+			<h2>Newsletter</h2>
+			<div class="news-letter-card text-center">
+				<div class="email-circle">
+					<img src="images/email.svg" alt="">
+				</div>
+				<p>Lorem Ipsum is simply dummy text of the printing and
+					typesetting industry. Lorem Ipsum has been the industry's standard
+					dummy text ever since the 1500s.</p>
+				<div class="row justify-content-md-center">
+					<div class="col-md-6">
+						<input type="text" class="form-control"
+							placeholder="Enter Your Email">
+					</div>
+				</div>
+				<a href="" class="btn btn-secondary mt-3"> Submit </a>
+			</div>
+		</div>
+	</section> -->
+	<!-- <a class="scroll-top" href="#top"> <img src="images/down-arrow.svg"
+		alt="">
+	</a> -->
+	<a class="scroll-top" href="#top"> <img src="images/down-arrow.svg"
+		alt="">
+	</a>
+	<section class="links-section emp-stories">
+		<div class="container-fluid">
+			<small> CONNECT </small>
+			<h2>Quick Links</h2>
+			<div class="owl-carousel owl-theme link-carousel mt-5">
+				<div class="item">
+					<a target="_blank" href="https://www.msde.gov.in/who.html"
+						style="background: url('images/logos/MSDE.jpg');"> </a>
+				</div>
+				<div class="item">
+					<a target="_blank" href="http://pmkvyofficial.org/"
+						style="background: url('images/logos/pmkya_0.jpg');"></a>
+				</div>
+				<div class="item">
+					<a target="_blank" href="https://www.ap.gov.in/"
+						style="background: url('images/logos/AP_Govt_logo.png');"></a>
+				</div>
+				<div class="item">
+					<a target="_blank" href="https://myap.e-pragati.in/"
+						style="background: url('images/logos/epragati.jpg');"></a>
+				</div>
+				<div class="item">
+					<a target="_blank" href="https://smart.nsdcindia.org/"
+						style="background: url('images/logos/smart.jpg');"></a>
+				</div>
+				<div class="item">
+					<a target="_blank" href="https://www.worldskillsindia.co.in/"
+						style="background: url('images/logos/worldskillsindia.png');"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<footer>
+		<div class="sub-footer">
+			<div class="container-fluid">
+				<div class="row text-left">
+					<div class="col-md-2 vert-middle horiz-left">
+						<div class="footer-logo-wrapper">
+							<img src="./images/apssdc_final.png" alt="">
+						</div>
+					</div>
+					<div class="col-md-2 footer-links">
+						<ul class="list-unstyled mb-0">
+							<li>
+								<h4>Quick Links</h4>
+							</li>
+							<li><a href="/home/aboutus">
+									Vision and Mission </a></li>
+							<li><a href="/home/career">
+									Careers </a></li>
+							<li><a href="/home/faq">
+									FAQs </a></li>
+							<li><a href="/home/newtenders">
+									Tenders </a></li>
+						</ul>
+					</div>
+					<div class="col-md-2 footer-links">
+						<ul class="list-unstyled mb-0">
+							<li>
+								<h4>Media</h4>
+							</li>
+							<li><a href="/home/gallery">
+									Gallery </a></li>
+							<li><a href="/home/videos">
+									Videos </a></li>
+						</ul>
+					</div>
+					<div class="col-md-2 footer-links">
+						<ul class="list-unstyled mb-0">
+							<li>
+								<h4>Resources</h4>
+							</li>
+							
+							<li><a href="/home/Usermanual">User
+									Manual</a></li>
+							<li><a href="/home/career">Careers</a></li>
+							<li><a href="/home/rti">RTI</a>
+							</li>
+						</ul>
+					</div>
+					<div class="col-md-2 footer-links">
+						<ul class="list-unstyled mb-0">
+							<li>
+								<h4>Partners</h4>
+							</li>
+							
+							<li><a
+								href="/home/institutefinder">Find
+									a Training Center </a></li>
+							<li><a href="/home/TPfinder">Find
+									a Training Partner </a></li>
+							<li><a href="/home/Esccolleges">Find
+									a ESC College </a></li>
+						</ul>
+					</div>
+					<div class="col-md-2">
+						<ul class="list-unstyled mb-0">
+							<li>
+								<h4>Contact Us</h4>
+							</li>
+							<li class="mb-2">#3rd floor,Infosight Building, <br>
+								survey No. 78/2,Near Pathuru Road Junction, <br> NH-16
+								Service Road, Tadepalli - 522501, <br> Guntur
+								District,Andhra Pradesh
+							</li>
+							<li><a href="tel:1800-425-2422"> 1800-425-2422 </a></li>
+						</ul>
+					</div>
+
+					<!-- <div class="col-md-3 text-left">
+						
+					</div>
+					<div class="col-md-3 text-left">
+						
+					</div> -->
+				</div>
+			</div>
+		</div>
+		<div class="container-fluid">
+			<div class="row text-center">
+				<div class="col-md-12 p-3">
+					<a href=""> APSSDC | All rights reserved | Copyright &copy;
+						2019 </a>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog"
+		aria-labelledby="exampleModalLabel" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title" id="exampleModalLabel">Institute
+						Finder</h5>
+					<button type="button" class="close" data-dismiss="modal"
+						aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body">Sorry to say this it is under
+					construction</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-primary" data-dismiss="modal"
+						data-target="#exampleModal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+	
+
+	<!-- Covid 19 -->
+	<div class="corona-helpline d-flex align-items-center">
+		<img
+			src="/home/images/covid/465293-PGDOIV-851.png"
+			alt="" />
+		<div
+			class="corona-awareness-message d-flex align-items-center p-4 rounded">
+			<a href="http://hmfw.ap.gov.in/index.aspx" class="text-white"
+				target="_blank"> Covid-19 Helpline </a> <a href=""
+				class="corona-help" data-toggle="modal" data-target="#coronaModel">
+				<svg id="Capa_1" enable-background="new 0 0 515.556 515.556"
+					viewBox="0 0 515.556 515.556" xmlns="http://www.w3.org/2000/svg">
+					<path
+						d="m257.778 0c-142.137 0-257.778 115.641-257.778 257.778s115.641 257.778 257.778 257.778 257.778-115.641 257.778-257.778-115.642-257.778-257.778-257.778zm32.222 418.889h-64.444v-64.444h64.444zm32.222-147.769-32.222 32.222v18.88h-64.444v-32.222c0-8.543 3.398-16.74 9.44-22.782l41.662-41.662c8.48-8.48 13.342-20.233 13.342-32.222 0-17.763-14.459-32.222-32.222-32.222s-32.222 14.459-32.222 32.222v32.222h-64.444v-32.222c0-53.305 43.361-96.667 96.667-96.667s96.667 43.361 96.667 96.667c-.001 29.39-11.44 57.018-32.224 77.786z" /></svg>
+			</a>
+		</div>
+	</div>
+	<div class="modal fade" id="coronaModel" tabindex="-1" role="dialog"
+		aria-labelledby="coronaModelLabel" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title" id="coronaModelLabel">Health Advisory
+						for Covid-19</h5>
+					<button type="button" class="close" data-dismiss="modal"
+						aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body p-0">
+					<img
+						src="/home/images/covid/corona-awareness.jpg"
+						alt="" class="w-100" />
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-secondary"
+						data-dismiss="modal">Close</button>
+					<a href="http://hmfw.ap.gov.in/index.aspx" target="_blank"
+						class="btn btn-primary">Covid-19 Helpline </a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Covid 19 -->
+
+	<div class="chatdiv"
+		style="position: fixed; z-index: 999; bottom: -3px; right: 0px; border: 0; height: 84px; width: 80px; webkit-box-shadow: ï¿½0 16px 18pxï¿½rgba(0, 0, 0, .2); box-shadow: ï¿½0 16px 18pxï¿½rgba(0, 0, 0, .2);">
+
+		<iframe class="chatbot-frame"
+			style="border: 0; width: 100%; height: 100%;"
+			src="https://www.apssdc.in/chatBot"></iframe>
+		<!--  <iframe class="chatbot-frame" style="border:0;width:100%;height:100%;" src="http://103.231.8.28/chatBot/" ></iframe> -->
+
+	</div>
+
+	<div class="clearfix"></div>
+	<div class="apssdcloader" style="display: none">
+		<div class="apssdcloader-img">
+			<img alt=""
+				src="/home/images/apssdcloader.svg">
+		</div>
+	</div>
+
+	<script type="text/javascript">
+		var _contextPath = "/home";
+	</script>
+	<script src="/home/js/jquery-3.2.1.min.js"></script>
+	<script src="/home/js/HomePage.js"></script>
+
+
+	<script src="/home/js/popper.min.js"></script>
+	<script src="/home/js/bootstrap.min.js"></script>
+	<script src="/home/js/inView.jquery.js"></script>
+	<script
+		src="/home/js/owlcarousel/owl.carousel.min.js"></script>
+	<script src="/home/js/customscript.js"></script>
+	<script src="/home/js/refdata/refdata.js"></script>
+	<link
+		href='https://code.jquery.com/ui/1.12.1/themes/cupertino/jquery-ui.css'
+		rel='stylesheet' />
+	<script
+		src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+
+
+	<script
+		src="/home/js/lightbox/lc_lightbox.lite.min.js"></script>
+
+	<script>
+		$(document).ready(function() {
+			/* localStorage.clear(); */
+			localStorage.removeItem('username');
+			localStorage.removeItem('userid');
+			localStorage.removeItem('usertype');
+
+			RefData.loadAPdistrict('district_inst_id');
+
+			$('.chatbot-icon').click(function() {
+				chatbotfunction();
+				$(this).hide();
+				$('.chatcontainer').show();
+			});
+			$('.close-chat').click(function() {
+				$('.chatcontainer').hide();
+				$('.chatbot-icon').show();
+			});
+			
+			$('.eventtologin').click(function(){
+				$('#registerPopupwindow').modal('show');
+				$(".reg-modal-wrapper .login").removeClass("active");
+			});
+			
+			// live handler
+			lc_lightbox('.elem', {
+				wrap_class: 'lcl_fade_oc',
+				gallery : true,	
+				thumb_attr: 'data-lcl-thumb', 
+				
+				skin: 'minimal',
+				radius: 0,
+				padding	: 0,
+				border_w: 0,
+			});
+		});
+		
+		$("#studentsregistered").on('click',function(){
+			 location.href = "/home/overallDashboard";
+		});
+	
+		$("#studentsskilled").on('click',function(){
+			 location.href = "/home/unemployedDashboard";
+			 sessionStorage.setItem("id", "trained_ue_tab");
+  		
+		});
+		
+
+
+		$("#mentorFormId").on('click',function(){
+					// location.href = "/home/unemployedDashboard";
+					 sessionStorage.setItem("role", "MENTOR");
+		 		
+				});
+				
+				 $("#menteeFormId").on('click',function(){
+					// location.href = "/home/unemployedDashboard";
+					 sessionStorage.setItem("role", "MENTEE");
+		 		
+				}); 
+		
+		$("#providerLink").on('click',function(){
+			location.href = "/home/TPfinder";
+		});
+		
+		$(window).bind("load", function() {
+			  $('#social-box-fb').prepend('<iframe width="100%" id="fbframe" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fapssdcskilldevelopment%2F&amp;tabs=timeline&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=true&amp;show_facepile=true&amp;appId=594476357607992" style="border: none; overflow-y:auto" scrolling="no" allowtransparency="true" width="100%" height="301" frameborder="0"></iframe>');
+			});
+		
+		
+		
+		$("#institutefinderid").click(function(){
+				var APIURL = '';
+				var form = {
+						"sectorId":$("#scheme_inst_id").val()
+						
+					};
+						$.ajax({
+							url : _contextPath + '/programcourse/getbatchprogramcourse?offset=0&limit=10&location='+ $("#district_inst_id").val(),
+							type : 'POST',
+							contentType : 'application/json',
+							data : JSON.stringify(form),
+							dataType : "json",
+							success : function(data, textStatus, jqXHR) {
+								$("#coursecontainer").empty();
+								var appliedRow;
+								$.each(data,function(key, val) {
+									
+					    			
+
+												
+													/* $("#coursecontainer")
+															.append(
+															'<div class="courseframe card card-statistics">'
+																			+ '<div class="courselistheader">'
+																			+ '<div class="row"><div class="col-md-12"><h4>'
+																			+ val.name
+																			+ '</h4></div><div class="col-md-12"><input type="hidden" val='+val.typeid+' class="instituteId"><p>'
+																			+ val.centername
+																			+ '</p></div></div>'
+																			+ '<div class="row mt-3"><div class="col-md-6"><span class="courseframspan">Scheme :</span><b>'
+																			+ val.scheme
+																			+ '</b></div><div class="col-md-6"><span class="courseframspan">Sector:</span><b>'
+																			+ val.sector
+																			+ '</b></div></div>'
+																			+ '<div class="row"><div class="col-md-6"><span class="courseframspan">Jobcode :</span><b>'
+																			+ ((val.jobrole!=null && val.jobrole!="null") ? val.jobrole :"" )
+																			+ '</b></div><div class="col-md-6"><span class="courseframspan">Minimum Age :</span><b>'
+																			+ ((val.minAge!=null && val.minAge!="null") ? val.minAge :"" ) 
+																			+ '</b></div><div class="col-md-6"><span class="courseframspan">Qualification :</span><b>'
+																			+ ((val.minQualification!=null && val.minQualification!="null") ? val.minQualification :"" ) 
+																			+ '</b></div>'
+																			+ '<div class="col-md-6"><span class="courseframspan">Description :</span><i>'
+																			+ ((val.description!=null && val.description!="null")?val.description:"")
+																			+ '</i></div>'
+																			+ '</div>'
+																			+ '<div class="courselistfooter">'
+																			+ '<div class="row"><div class="col-md-12 p-0 text-center"><button class="btn btn-primary" ><a class="viewBatches programIdinCandidateprgms" data-toggle="modal" typeid='+val.typeid+'  val='+val.id+'>View Batches</a></button></div></div>'
+																			+ '</div>'
+																			+ '</div>'); */
+												});
+								//BatcheList($(".programIdinCandidateprgms").val(),$(".instituteId").val());
+								$('.apssdcloader').hide();
+							},
+						});
+						
+		});
+		
+	$("#institutefinderid").click(function(){
+		var dist=$(".distinsid").val();
+		var scheme=$(".sectorinstid").val();
+		if (dist!=null && scheme!=null) {
+			
+			window.location='/home/institutefinder?distid='+dist+'&schemeid='+scheme;
+		}
+		
+			 
+	}); 
+	
+	
+	</script>
+
+	<script async
+		src="https://www.googletagmanager.com/gtag/js?id=UA-139438811-1"></script>
+	<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-139438811-1');
+//   $(window).load(function() {
+//         // Animate loader off screen
+// 		$(".loader-wrapper").fadeOut("slow");
+//     });
+</script>
+	<!-- <script>
+$(document).ready(function(){
+	
+	$("#adminimages .dynamicimage").empty();
+
+	var URL = './institute/getuploadedgalleryimages';
+	var getUrl = window.location;
+	var baseUrlhost = getUrl.host;
+
+	$.ajax({
+	    type : 'GET',
+	    contentType : 'application/json',
+	    url : URL,
+	    dataType : "json",
+	    success : function(dataresponse) {
+	           if (dataresponse) {
+	                 var fileList=dataresponse.files;
+	                 if(fileList != undefined && fileList!='' &&  fileList.length > 0){
+	                	 var response = '',
+	     	            indicator = '';
+	                 $.each(fileList, function (index, value) {
+	                        var filename=value.substr((value.lastIndexOf('/') + 1));
+	                             var arr=filename.split("galleryImages");
+	                             var arrnew= arr[1];
+	                          var arrtwo=  arrnew.replace(/\\/g, '');
+	                          var arrthree = arrtwo;	                          
+	                          response +='<div class="item dynamicimage"><img src="galleryImages/'+arrthree+'" class="img-thumbnail mb-4 zoom"></div>';                                                         
+	                     });
+	     	        $('#adminimages').append(response);
+	     	        $('.item').first().addClass('active');
+	     	        $('.carousel-indicators > li').first().addClass('active');
+	     	        $("#adminimages").carousel();
+	                 }
+	           }	           
+	    },
+	    error : function(jqXHR, textStatus,
+	                 errorThrown) {
+	           
+	    }
+	});
+	});
+
+</script> -->
+
+
+	<script src="/home/js/apssdcchatbot.js"></script>
+
+</body>
+
+</html>
+		</article>
+		
+		
+</body>
+</html>
